@@ -1,0 +1,1622 @@
+{
+  "Broadcast_is_empty": "Broadcast is empty",
+  "DelegatebwPage_Available": "Available",
+  "DelegatebwPage_CPU": "CPU",
+  "DelegatebwPage_Confirm": "Confirm",
+  "DelegatebwPage_Network": "Network",
+  "DelegatebwPage_NoEnoughBW": "No enough EOS to stake",
+  "DelegatebwPage_NoNegative": "Negative number is not allowed",
+  "DelegatebwPage_Rule": "Rule*",
+  "DelegatebwPage_Rule1": "· Vote will use a little CPU + Network stake;",
+  "DelegatebwPage_Rule2": "· The voting weight will decrease over time;",
+  "DelegatebwPage_Rule3": "· Could Unstake EOS anytime，which will deduct corresponding votes from voted producers, and EOS will refund to account 3 days later;",
+  "DelegatebwPage_StakeCount": "Stake Count",
+  "DelegatebwPage_StakeQuantity": "Stake Quantity",
+  "DelegatebwPage_Title": "Stake EOS",
+  "DelegatebwPage_UseValidValue": "Please input valid value",
+  "DelegatebwPage_availableBW": "Available Bandwidth",
+  "Global_Development_Team": "Pomelo Developer",
+  "Global_Total_Votes_Percentage": "Total Votes Percentage",
+  "Global_Upgrade_Description": "We have released a new version, please update to see the new feature.",
+  "Global_Upgrade_Later": "Later",
+  "Global_Upgrade_Notice": "Upgrade Notice",
+  "Global_Upgrade_Now": "Upgrade",
+  "HomePage_Choose_one_net": "Please choose one Net to connect",
+  "HomePage_Hint": "Paste your private key string here",
+  "HomePage_InvalidPrivateKey": "Invalid private key",
+  "HomePage_Mainnet_not_ready": "Main net is not ready, please try Testnet",
+  "HomePage_NoAccountFound": "No account name found for the key",
+  "HomePage_PleaseCancel": "Cancel",
+  "HomePage_PleaseEnterComplete": "Please input a private key",
+  "HomePage_PleaseSure": "OK",
+  "HomePage_SomethingWrong": "Something is Wrong",
+  "HomePage_Submit": "Submit",
+  "HomePage_Testnet_Dialog_Cancel": "Close",
+  "HomePage_Testnet_Dialog_Desc": "Please use our testnet portal http://vote.eosio.sg to generate a testing private key.",
+  "HomePage_Testnet_Dialog_OK": "Continue",
+  "HomePage_Testnet_Dialog_Title": "Notice",
+  "HomePage_choiceAccount": "Choice an account name",
+  "HomePage_importWallet": "Import EOS wallet",
+  "HomePage_privateKey": "Your Private Key",
+  "MEET_ONE": "MEET.ONE",
+  "Node_Choose": "Selected",
+  "Node_Vote": "Vote",
+  "Node_Vote_List": "Selected Producers",
+  "Password_Check": "Please check your password",
+  "Password_Clear": "Clear Passwords",
+  "Password_Hint": "Password Hint:",
+  "Password_Incorrect": "Password is incorrect",
+  "Password_Input": "Please enter your password",
+  "Password_Invalid": "Password is not the same",
+  "Password_Set": "Set Password",
+  "Password_Set_Success": "Password set success",
+  "Password_Verify": "Please enter your password",
+  "Producers_List_Choose": "Choose",
+  "Producers_List_Title": "Producers List",
+  "Producers_List_Vote": "Vote",
+  "The_CPU_Number_is_illegal": "The CPU Number is illegal",
+  "The_Network_Number_is_illegal": "The Network Number is illegal",
+  "UnDelegatebwPage availableBW": "최대 할당 가능 자원",
+  "UnDelegatebwPage_Available": "Available",
+  "UnDelegatebwPage_CPU": "CPU",
+  "UnDelegatebwPage_Confirm": "Confirm",
+  "UnDelegatebwPage_Network": "Network",
+  "UnDelegatebwPage_StakeCount": "Stake Count",
+  "UnDelegatebwPage_StakeCountInfo": "* EOS will return to account 3 days later",
+  "UnDelegatebwPage_StakeQuantity": "Stake Quantity",
+  "UnDelegatebwPage_Title": "Unstake EOS",
+  "VoteIndexPage_AddDelegatebw": "Stake EOS",
+  "VoteIndexPage_Balance": "Balance",
+  "VoteIndexPage_ChangeWallet": "Change Wallet",
+  "VoteIndexPage_RAMBytes": "RAM",
+  "VoteIndexPage_Refunding": "Refunding",
+  "VoteIndexPage_Revote": "Vote Producers",
+  "VoteIndexPage_Title": "Pomelo",
+  "VoteIndexPage_TotalAsset": "Total Asset",
+  "VoteIndexPage_Undelegatebw": "Unstake EOS",
+  "VoteIndexPage_Vote": "Vote",
+  "VoteIndexPage_VoteDesc": "Unstake EOS will deduct corresponding votes from voted producers, and EOS will refund to account 3 days later.",
+  "VoteIndexPage_VotedBps": "Voted Block Producers",
+  "VoteIndexPage_userName": "User Name",
+  "VotePage_Rule1": "· Vote will use a little CPU + Network stake;",
+  "VotePage_Rule2": "· The voting weight will decrease over time;",
+  "VotePage_Rule3": "· Could Unstake EOS anytime，which will deduct corresponding votes from voted producers, and EOS will refund to account 3 days later;",
+  "VotePage_RuleT": "Rule*",
+  "VotePage_account": "Account",
+  "VotePage_balance": "Balance",
+  "VotePage_bpList": "Candidates you selected",
+  "VotePage_cancel": "Cancel",
+  "VotePage_confirm": "Confirm",
+  "VotePage_delegatebw": "Stake EOS",
+  "VotePage_gotIt": "Got it",
+  "VotePage_notice": "Notice",
+  "VotePage_noticeC": "You could Vote, Stake EOS or Unstake EOS anytime. Vote will use CPU+Network stake.",
+  "VotePage_stake": "Stake count",
+  "VotePage_submit": "Submit",
+  "VotePage_vote": "Vote",
+  "VotePage_vote_fail": "Request Failed.",
+  "VotePage_vote_success": "Successful",
+  "WalletPage_PleaseCancel": "Cancel",
+  "WalletPage_PleaseSure": "Continue",
+  "WalletPage_Title": "Notice",
+  "WalletPage_changeWallet": "Change Wallet",
+  "WalletPage_confirmContent": "Please confirm that backup the EOS wallet before change it.",
+  "WalletPage_totalAssets": "Total Assets",
+  "about_us": "About",
+  "account": "Account",
+  "account_at_least_one": "Need one account at least",
+  "account_make_sure": "Please fill in the account name as required",
+  "account_make_sure_1": "To ensure the registration successfully,please make sure there is at least",
+  "account_make_sure_2": "EOS in your account",
+  "account_make_sure_info": "*The account name should be 12 lowercase alphanumeric",
+  "account_not_exist": "Account does not exist",
+  "add_a_new_eos_wallet": "Add an EOS Wallet",
+  "add_a_new_eth_wallet": "Add an ETH Wallet",
+  "add_account": "Accounts",
+  "add_new_one_account": "add a new one",
+  "add_new_one_account_1": "Each new account will be transferred to about",
+  "add_new_one_account_2": "EOS,and assign according to the following rules to ensure that the new account can be used normally.",
+  "add_new_token": "Add new token",
+  "add_new_wallet": "Import ETH Wallet",
+  "address": "Address",
+  "album": "Album",
+  "app_name": "MEET.ONE",
+  "ask_me_later": "Ask me later",
+  "assets": "Assets",
+  "authorization_account": "Access Account",
+  "authorization_change": "Change",
+  "authorization_confirm": "Confirm",
+  "authorization_desc": "Withdraw the candy need your EOS account name.",
+  "authorization_permission": "Confirm the request, the app will get access to:",
+  "authorization_permission_01": "· Read your account name",
+  "authorization_permission_notice": "Allow the app to read the account name will not reveal your private key.",
+  "authorization_title": "Authorization",
+  "auto_translate": "Auto translation:",
+  "backup_keystore": "Backup Keystore",
+  "backup_private_key_tip_1": "Save offline",
+  "backup_private_key_tip_2": "It is recommended to copy or print the private key and store it in a safe place.",
+  "backup_private_key_tip_3": "Keep offline",
+  "backup_private_key_tip_4": "Do not transmit private keys through web tools, such as sending them to your computer via WeChat. Once acquired by hackers will cause irreparable loss of assets.",
+  "backup_private_key_title": "Backup private key",
+  "bind": "Binding",
+  "bind_email": "Bind mailbox",
+  "block_number": "Block Number",
+  "bulk_account_tips1": "Warning: New Account will use the same Private Key with ",
+  "bulk_account_tips2": " ",
+  "buy_sell_ram": "RAM",
+  "cancel": "Cancel",
+  "cant_transferto_self": "Can't transfer to yourself",
+  "change_email_hint": "If you change your email address, you need to re-verify the email address.",
+  "change_name": "Change username",
+  "change_password": "Change password",
+  "change_pwd": "Change Password",
+  "check_again": "Check again",
+  "check_update": "Check for updates",
+  "choose_country": "Region",
+  "choose_eth_wallet": "Choose an ETH wallet",
+  "choose_token": "Choose a token",
+  "choose_wallet": "Choose a wallet",
+  "close": "Close",
+  "complete": "Done",
+  "confirm": "Confirm",
+  "confirm_to_transfer": "Confirm",
+  "contract_account_warning": "This account has deployed a smart contract. Be sure to confirm the smart contract content before the transfer.",
+  "copy": "Copy",
+  "copy_account_success": "Copy account success",
+  "copy_address_success": "Copy address success",
+  "copy_eos_account": "Copy account",
+  "copy_success": "Already copied!",
+  "copy_wallet_address": "Copy wallet address",
+  "cost_tip_1": "Note：In the amount of the EOS, 0.2 EOS will be staked for the CPU and NET, and the rest will purchase approximately 4KB RAM.",
+  "cost_tip_2": "* This service is provided by the open source DApp signupeoseos.",
+  "country": {
+    "AD": {
+      "sort": "",
+      "value": "Andorra"
+    },
+    "AE": {
+      "sort": "",
+      "value": "United Arab Emirates"
+    },
+    "AF": {
+      "sort": "",
+      "value": "Afghanistan"
+    },
+    "AG": {
+      "sort": "",
+      "value": "Antigua and Barbuda"
+    },
+    "AI": {
+      "sort": "",
+      "value": "Anguilla"
+    },
+    "AL": {
+      "sort": "",
+      "value": "Albania"
+    },
+    "AM": {
+      "sort": "",
+      "value": "Armenia"
+    },
+    "AN": {
+      "sort": "",
+      "value": "Netherlands Antilles"
+    },
+    "AO": {
+      "sort": "",
+      "value": "Angola"
+    },
+    "AR": {
+      "sort": "",
+      "value": "Argentina"
+    },
+    "AT": {
+      "sort": "",
+      "value": "Austria"
+    },
+    "AU": {
+      "sort": "",
+      "value": "Australia"
+    },
+    "AW": {
+      "sort": "",
+      "value": "Aruba"
+    },
+    "AZ": {
+      "sort": "",
+      "value": "Azerbaijan"
+    },
+    "BA": {
+      "sort": "",
+      "value": "Bosnia Herzegovina"
+    },
+    "BB": {
+      "sort": "",
+      "value": "Barbados"
+    },
+    "BD": {
+      "sort": "",
+      "value": "Bangladesh"
+    },
+    "BE": {
+      "sort": "",
+      "value": "Belgium"
+    },
+    "BF": {
+      "sort": "",
+      "value": "Burkina Faso"
+    },
+    "BG": {
+      "sort": "",
+      "value": "Bulgaria"
+    },
+    "BH": {
+      "sort": "",
+      "value": "Bahrain"
+    },
+    "BI": {
+      "sort": "",
+      "value": "Burundi"
+    },
+    "BJ": {
+      "sort": "",
+      "value": "Benin"
+    },
+    "BM": {
+      "sort": "",
+      "value": "Bermuda"
+    },
+    "BN": {
+      "sort": "",
+      "value": "Brunei Darussalam"
+    },
+    "BO": {
+      "sort": "",
+      "value": "Bolivia"
+    },
+    "BR": {
+      "sort": "",
+      "value": "Brazil"
+    },
+    "BS": {
+      "sort": "",
+      "value": "Bahamas"
+    },
+    "BT": {
+      "sort": "",
+      "value": "Bhutan"
+    },
+    "BW": {
+      "sort": "",
+      "value": "Botswana"
+    },
+    "BY": {
+      "sort": "",
+      "value": "Belarus"
+    },
+    "BZ": {
+      "sort": "",
+      "value": "Belize"
+    },
+    "CA": {
+      "sort": "",
+      "value": "Canada"
+    },
+    "CD": {
+      "sort": "",
+      "value": "Congo (Democratic Republic)"
+    },
+    "CF": {
+      "sort": "",
+      "value": "Central African Republic"
+    },
+    "CG": {
+      "sort": "",
+      "value": "Congo (Republic of)"
+    },
+    "CH": {
+      "sort": "",
+      "value": "Switzerland"
+    },
+    "CK": {
+      "sort": "",
+      "value": "Cook Islands"
+    },
+    "CL": {
+      "sort": "",
+      "value": "Chile"
+    },
+    "CM": {
+      "sort": "",
+      "value": "Cameroon"
+    },
+    "CN": {
+      "currency_name": "Chinese Yuan",
+      "sort": "",
+      "value": "China"
+    },
+    "CO": {
+      "sort": "",
+      "value": "Colombia"
+    },
+    "CR": {
+      "sort": "",
+      "value": "Costa Rica"
+    },
+    "CU": {
+      "sort": "",
+      "value": "Cuba"
+    },
+    "CV": {
+      "sort": "",
+      "value": "Cabo Verde"
+    },
+    "CY": {
+      "sort": "",
+      "value": "Cyprus"
+    },
+    "CZ": {
+      "sort": "",
+      "value": "Czech Republic"
+    },
+    "DE": {
+      "sort": "",
+      "value": "Germany"
+    },
+    "DJ": {
+      "sort": "",
+      "value": "Djibouti"
+    },
+    "DK": {
+      "sort": "",
+      "value": "Denmark"
+    },
+    "DM": {
+      "sort": "",
+      "value": "Dominica"
+    },
+    "DO": {
+      "sort": "",
+      "value": "Dominican Republic"
+    },
+    "DZ": {
+      "sort": "",
+      "value": "Algeria"
+    },
+    "EC": {
+      "sort": "",
+      "value": "Ecuador"
+    },
+    "EE": {
+      "sort": "",
+      "value": "Estonia"
+    },
+    "EG": {
+      "sort": "",
+      "value": "Egypt"
+    },
+    "ES": {
+      "sort": "",
+      "value": "Spain"
+    },
+    "ET": {
+      "sort": "",
+      "value": "Ethiopia"
+    },
+    "FI": {
+      "sort": "",
+      "value": "Finland"
+    },
+    "FJ": {
+      "sort": "",
+      "value": "Fiji"
+    },
+    "FM": {
+      "sort": "",
+      "value": "Micronesia"
+    },
+    "FO": {
+      "sort": "",
+      "value": "Faroe Islands"
+    },
+    "FR": {
+      "sort": "",
+      "value": "France"
+    },
+    "GA": {
+      "sort": "",
+      "value": "Gabon"
+    },
+    "GB": {
+      "sort": "",
+      "value": "United Kingdom"
+    },
+    "GD": {
+      "sort": "",
+      "value": "Grenada"
+    },
+    "GE": {
+      "sort": "",
+      "value": "Georgia"
+    },
+    "GF": {
+      "sort": "",
+      "value": "French Guiana"
+    },
+    "GG": {
+      "sort": "",
+      "value": "Guernsey"
+    },
+    "GH": {
+      "sort": "",
+      "value": "Ghana"
+    },
+    "GI": {
+      "sort": "",
+      "value": "Gibraltar"
+    },
+    "GL": {
+      "sort": "",
+      "value": "Greenland"
+    },
+    "GM": {
+      "sort": "",
+      "value": "Gambia"
+    },
+    "GN": {
+      "sort": "",
+      "value": "Guinea"
+    },
+    "GP": {
+      "sort": "",
+      "value": "Guadeloupe"
+    },
+    "GQ": {
+      "sort": "",
+      "value": "Equatorial Guinea"
+    },
+    "GR": {
+      "sort": "",
+      "value": "Greece"
+    },
+    "GT": {
+      "sort": "",
+      "value": "Guatemala"
+    },
+    "GU": {
+      "sort": "",
+      "value": "Guam"
+    },
+    "GW": {
+      "sort": "",
+      "value": "Guinea-Bissau"
+    },
+    "GY": {
+      "sort": "",
+      "value": "Guyana"
+    },
+    "HK": {
+      "sort": "",
+      "value": "Hong Kong"
+    },
+    "HN": {
+      "sort": "",
+      "value": "Honduras"
+    },
+    "HR": {
+      "sort": "",
+      "value": "Croatia"
+    },
+    "HT": {
+      "sort": "",
+      "value": "Haiti"
+    },
+    "HU": {
+      "sort": "",
+      "value": "Hungary"
+    },
+    "ID": {
+      "sort": "",
+      "value": "Indonesia"
+    },
+    "IE": {
+      "sort": "",
+      "value": "Ireland (Republic of)"
+    },
+    "IL": {
+      "sort": "",
+      "value": "Israel"
+    },
+    "IM": {
+      "sort": "",
+      "value": "Isle of Man"
+    },
+    "IN": {
+      "sort": "",
+      "value": "India"
+    },
+    "IQ": {
+      "sort": "",
+      "value": "Iraq"
+    },
+    "IR": {
+      "sort": "",
+      "value": "Iran"
+    },
+    "IS": {
+      "sort": "",
+      "value": "Iceland"
+    },
+    "IT": {
+      "sort": "",
+      "value": "Italy"
+    },
+    "JE": {
+      "sort": "",
+      "value": "Jersey"
+    },
+    "JM": {
+      "sort": "",
+      "value": "Jamaica"
+    },
+    "JO": {
+      "sort": "",
+      "value": "Jordan"
+    },
+    "JP": {
+      "sort": "",
+      "value": "Japan"
+    },
+    "KE": {
+      "sort": "",
+      "value": "Kenya"
+    },
+    "KG": {
+      "sort": "",
+      "value": "Kyrgyzstan"
+    },
+    "KH": {
+      "sort": "",
+      "value": "Cambodia"
+    },
+    "KI": {
+      "sort": "",
+      "value": "Kiribati"
+    },
+    "KM": {
+      "sort": "",
+      "value": "Comoros"
+    },
+    "KN": {
+      "sort": "",
+      "value": "Saint Kitts and Nevis"
+    },
+    "KP": {
+      "sort": "",
+      "value": "North Korea"
+    },
+    "KR": {
+      "sort": "",
+      "value": "South Korea"
+    },
+    "KW": {
+      "sort": "",
+      "value": "Kuwait"
+    },
+    "KY": {
+      "sort": "",
+      "value": "Cayman Islands"
+    },
+    "KZ": {
+      "sort": "",
+      "value": "Kazakhstan"
+    },
+    "LA": {
+      "sort": "",
+      "value": "Laos"
+    },
+    "LB": {
+      "sort": "",
+      "value": "Lebanon"
+    },
+    "LC": {
+      "sort": "",
+      "value": "Saint Lucia"
+    },
+    "LI": {
+      "sort": "",
+      "value": "Liechtenstein"
+    },
+    "LK": {
+      "sort": "",
+      "value": "Sri Lanka"
+    },
+    "LR": {
+      "sort": "",
+      "value": "Liberia"
+    },
+    "LS": {
+      "sort": "",
+      "value": "Lesotho"
+    },
+    "LT": {
+      "sort": "",
+      "value": "Lithuania"
+    },
+    "LU": {
+      "sort": "",
+      "value": "Luxembourg"
+    },
+    "LV": {
+      "sort": "",
+      "value": "Latvia"
+    },
+    "LY": {
+      "sort": "",
+      "value": "Libya"
+    },
+    "MA": {
+      "sort": "",
+      "value": "Morocco"
+    },
+    "MC": {
+      "sort": "",
+      "value": "Monaco"
+    },
+    "MD": {
+      "sort": "",
+      "value": "Moldova"
+    },
+    "ME": {
+      "sort": "",
+      "value": "Montenegro"
+    },
+    "MF": {
+      "sort": "",
+      "value": "Saint Martin (French part)"
+    },
+    "MG": {
+      "sort": "",
+      "value": "Madagascar"
+    },
+    "MK": {
+      "sort": "",
+      "value": "Macedonia"
+    },
+    "ML": {
+      "sort": "",
+      "value": "Mali"
+    },
+    "MM": {
+      "sort": "",
+      "value": "Myanmar"
+    },
+    "MN": {
+      "sort": "",
+      "value": "Mongolia"
+    },
+    "MO": {
+      "sort": "",
+      "value": "Macau"
+    },
+    "MP": {
+      "sort": "",
+      "value": "Northern Mariana Islands"
+    },
+    "MQ": {
+      "sort": "",
+      "value": "Martinique"
+    },
+    "MR": {
+      "sort": "",
+      "value": "Mauritania"
+    },
+    "MS": {
+      "sort": "",
+      "value": "Montserrat"
+    },
+    "MT": {
+      "sort": "",
+      "value": "Malta"
+    },
+    "MU": {
+      "sort": "",
+      "value": "Mauritius"
+    },
+    "MV": {
+      "sort": "",
+      "value": "Maldives"
+    },
+    "MW": {
+      "sort": "",
+      "value": "Malawi"
+    },
+    "MX": {
+      "sort": "",
+      "value": "Mexico"
+    },
+    "MY": {
+      "currency_name": "Malaysia Ringgit",
+      "sort": "",
+      "value": "Malaysia"
+    },
+    "MZ": {
+      "sort": "",
+      "value": "Mozambique"
+    },
+    "NA": {
+      "sort": "",
+      "value": "Namibia"
+    },
+    "NC": {
+      "sort": "",
+      "value": "New Caledonia"
+    },
+    "NE": {
+      "sort": "",
+      "value": "Niger"
+    },
+    "NF": {
+      "sort": "",
+      "value": "Norfolk Island"
+    },
+    "NG": {
+      "sort": "",
+      "value": "Nigeria"
+    },
+    "NI": {
+      "sort": "",
+      "value": "Nicaragua"
+    },
+    "NL": {
+      "sort": "",
+      "value": "Netherlands"
+    },
+    "NO": {
+      "sort": "",
+      "value": "Norway"
+    },
+    "NP": {
+      "sort": "",
+      "value": "Nepal"
+    },
+    "NR": {
+      "sort": "",
+      "value": "Nauru"
+    },
+    "NZ": {
+      "sort": "",
+      "value": "New Zealand"
+    },
+    "OM": {
+      "sort": "",
+      "value": "Oman"
+    },
+    "PA": {
+      "sort": "",
+      "value": "Panama"
+    },
+    "PE": {
+      "sort": "",
+      "value": "Peru"
+    },
+    "PF": {
+      "sort": "",
+      "value": "French Polynesia"
+    },
+    "PG": {
+      "sort": "",
+      "value": "Papua New Guinea"
+    },
+    "PH": {
+      "sort": "",
+      "value": "Philippines"
+    },
+    "PK": {
+      "sort": "",
+      "value": "Pakistan"
+    },
+    "PL": {
+      "sort": "",
+      "value": "Poland"
+    },
+    "PR": {
+      "sort": "",
+      "value": "Puerto Rico"
+    },
+    "PS": {
+      "sort": "",
+      "value": "Palestine, State of"
+    },
+    "PT": {
+      "sort": "",
+      "value": "Portugal"
+    },
+    "PW": {
+      "sort": "",
+      "value": "Palau"
+    },
+    "PY": {
+      "sort": "",
+      "value": "Paraguay"
+    },
+    "QA": {
+      "sort": "",
+      "value": "Qatar"
+    },
+    "RE": {
+      "sort": "",
+      "value": "Reunion"
+    },
+    "RO": {
+      "sort": "",
+      "value": "Romania"
+    },
+    "RS": {
+      "sort": "",
+      "value": "Serbia"
+    },
+    "RU": {
+      "sort": "",
+      "value": "Russia"
+    },
+    "RW": {
+      "sort": "",
+      "value": "Rwanda"
+    },
+    "SA": {
+      "sort": "",
+      "value": "Saudi Arabia"
+    },
+    "SC": {
+      "sort": "",
+      "value": "Seychelles"
+    },
+    "SD": {
+      "sort": "",
+      "value": "Sudan"
+    },
+    "SE": {
+      "sort": "",
+      "value": "Sweden"
+    },
+    "SG": {
+      "currency_name": "Singapore Dollar",
+      "sort": "",
+      "value": "Singapore"
+    },
+    "SH": {
+      "sort": "",
+      "value": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "SI": {
+      "sort": "",
+      "value": "Slovenia"
+    },
+    "SK": {
+      "sort": "",
+      "value": "Slovakia"
+    },
+    "SL": {
+      "sort": "",
+      "value": "Sierra Leone"
+    },
+    "SM": {
+      "sort": "",
+      "value": "San Marino (Republic of)"
+    },
+    "SN": {
+      "sort": "",
+      "value": "Senegal"
+    },
+    "SR": {
+      "sort": "",
+      "value": "Suriname"
+    },
+    "SV": {
+      "sort": "",
+      "value": "El Salvador"
+    },
+    "SY": {
+      "sort": "",
+      "value": "Syria"
+    },
+    "SZ": {
+      "sort": "",
+      "value": "Swaziland"
+    },
+    "TC": {
+      "sort": "",
+      "value": "Turks and Caicos Islands"
+    },
+    "TD": {
+      "sort": "",
+      "value": "Chad"
+    },
+    "TG": {
+      "sort": "",
+      "value": "Togo"
+    },
+    "TH": {
+      "sort": "",
+      "value": "Thailand"
+    },
+    "TJ": {
+      "sort": "",
+      "value": "Tajikistan"
+    },
+    "TL": {
+      "sort": "",
+      "value": "Timor-Leste"
+    },
+    "TM": {
+      "sort": "",
+      "value": "Turkmenistan"
+    },
+    "TN": {
+      "sort": "",
+      "value": "Tunisia"
+    },
+    "TO": {
+      "sort": "",
+      "value": "Tonga"
+    },
+    "TR": {
+      "sort": "",
+      "value": "Turkey"
+    },
+    "TT": {
+      "sort": "",
+      "value": "Trinidad & Tobago"
+    },
+    "TW": {
+      "currency_name": "New Taiwan Dollar",
+      "sort": "",
+      "value": "Taiwan"
+    },
+    "TZ": {
+      "sort": "",
+      "value": "Tanzania"
+    },
+    "UA": {
+      "sort": "",
+      "value": "Ukraine"
+    },
+    "UG": {
+      "sort": "",
+      "value": "Uganda"
+    },
+    "US": {
+      "currency_name": "US Dollar",
+      "sort": "",
+      "value": "United States"
+    },
+    "UY": {
+      "sort": "",
+      "value": "Uruguay"
+    },
+    "UZ": {
+      "sort": "",
+      "value": "Uzbekistan"
+    },
+    "VC": {
+      "sort": "",
+      "value": "Saint Vincent and the Grenadines"
+    },
+    "VE": {
+      "sort": "",
+      "value": "Venezuela"
+    },
+    "VG": {
+      "sort": "",
+      "value": "British Virgin Islands"
+    },
+    "VI": {
+      "sort": "",
+      "value": "Virgin Islands (USA)"
+    },
+    "VN": {
+      "sort": "",
+      "value": "Vietnam"
+    },
+    "VU": {
+      "sort": "",
+      "value": "Vanuatu"
+    },
+    "WS": {
+      "sort": "",
+      "value": "Samoa"
+    },
+    "YE": {
+      "sort": "",
+      "value": "Yemen Republic"
+    },
+    "YT": {
+      "sort": "",
+      "value": "Mayotte"
+    },
+    "ZA": {
+      "sort": "",
+      "value": "South Africa"
+    },
+    "ZM": {
+      "sort": "",
+      "value": "Zambia"
+    },
+    "ZW": {
+      "sort": "",
+      "value": "Zimbabwe"
+    }
+  },
+  "create_again": "Regenerate",
+  "create_eos_account": "Register by invitation code",
+  "create_eos_account_tip": "I have read these information",
+  "create_eos_account_tip2": "·  The EOS required to create the account is paid by MEET.ONE",
+  "create_eos_account_tip3": "·  Account ownership/usership is owned by the user. All operations after creating an account are not related to MEET.ONE",
+  "create_eos_wallet": "Generate EOS Wallet",
+  "create_wallet": "Create Wallet",
+  "current_password": "current password",
+  "current_password_error": "The current password is wrong",
+  "current_version": "Current version{}",
+  "default_share_content": "Hey, Let me Share you a link",
+  "delegated_balance": "Staked Resources",
+  "delete": "delete",
+  "delete_wallet": "Delete wallet",
+  "discovery_BP": "EOS BP",
+  "discovery_BP_title": "EOS BP",
+  "discovery_REGISTER": "EOS\nAccounts",
+  "discovery_REGISTRATION": "EOS\nRegistration",
+  "discovery_REGISTRATION_title": "EOS Registration",
+  "discovery_candy": "EOS\nCandy",
+  "discovery_candy_title": "EOS Candy",
+  "do_not_take_screenshots": "Do not take screenshots",
+  "do_not_use_net": "Do not use network transmission",
+  "do_not_use_net_info": "Do not use a network tool to transfer private keys.Once acquired by hackers, it will cause irreparable asset losses.",
+  "email": "mailbox",
+  "email_address": "email address",
+  "email_format_error": "Please input the email address",
+  "empty_data": "No data",
+  "eos_account": "Register by friend",
+  "eos_account_has_exist": "This account has been registed",
+  "eos_account_name": "Account Name",
+  "eos_account_name_can_not_be_null": "Account name can not be empty",
+  "eos_account_name_tip": "Only a-z,1-5 and 12 characters required",
+  "eos_account_register_warning": "Can only be used by switching to EOS wallet",
+  "eos_entrance": "EOS ecological entrance",
+  "eos_key_save_tip_2": "Please save the public and private keys properly:",
+  "eos_key_save_tip_3": "It is recommended to copy or print and place it in a safe place.",
+  "eos_key_save_tip_4": "It is not recommended to use the network to transmit private keys, such as sending them to the computer using WeChat.",
+  "eos_mapping_open_source": "EOS Mapping",
+  "eos_mapping_submit_contract": "Submit contract",
+  "eos_mapping_submit_title": "Submit a mapping contract",
+  "eos_mapping_success_title": "EOS mapping",
+  "eos_mapping_tip_title": "EOS mapping",
+  "eos_mapping_title": "EOS mapping",
+  "eos_mapping_verify": "Verification mapping",
+  "eos_mapping_verify_title": "Verification mapping",
+  "eos_mapping_wallet": "EOS mapping tool",
+  "eos_not_mapping_tip": "Your EOS has not been mapped.",
+  "eos_only": "Only EOS Wallet Can use this feature",
+  "eos_order_info": "Order Info",
+  "eos_private_key": "Private Key Private Key",
+  "eos_private_key_tip_1": "If someone gets your private key you will get your assets directly! Please copy the private key and store it in a safe place.",
+  "eos_public_key": "Public Key",
+  "eos_public_key_1": "EOS wallet public key",
+  "eos_public_key_for_return": "Returned EOS public key:",
+  "eos_receiver_address": "Receiver",
+  "eos_receiver_wallet_address": "Receiver's EOS Account",
+  "eos_remark": "Memo",
+  "eos_sender_address": "Payer",
+  "eos_transfer_result_commitTrans": "Transfer Commited",
+  "eos_transfer_result_success": "Success!",
+  "eos_transfer_result_title": "Transfer Result",
+  "eos_wallet_account": "EOS Account",
+  "eos_wallet_mapping_description": "The \"map\" is to register the EOS wallet public key on Ethereum's EOS contract. So you need to get an public key of the EOS wallet. MEET.ONE uses the official open source EOS address generator.",
+  "eos_wallet_name_must_be_12": "Account name required 12 characters",
+  "error": "Unknow Failed",
+  "error_parse": "JSON Parse Failed",
+  "error_3010000": "error_3010000:chain type exception",
+  "error_3010001": "error_3010001:Invalid name",
+  "error_3010002": "error_3010002:Invalid public key",
+  "error_3010003": "error_3010003:Invalid private key",
+  "error_3010004": "error_3010004:Invalid authority",
+  "error_3010005": "error_3010005:Invalid action",
+  "error_3010006": "error_3010006:Invalid transaction",
+  "error_3010007": "error_3010007:Invalid ABI",
+  "error_3010008": "error_3010008:No ABI found",
+  "error_3010009": "error_3010009:Invalid block ID",
+  "error_3010010": "error_3010010:Invalid transaction ID",
+  "error_3010011": "error_3010011:Invalid packed transaction",
+  "error_3010012": "error_3010012:Invalid asset",
+  "error_3020000": "error_3020000:fork database exception",
+  "error_3020001": "error_3020001:unlinkable block",
+  "error_3030000": "error_3030000:block exception",
+  "error_3030001": "error_3030001:transaction outputs in block do not match transaction outputs from applying block",
+  "error_3030002": "error_3030002:block does not guarantee concurrent execution without conflicts",
+  "error_3030003": "error_3030003:shard locks in block are incorrect or mal-formed",
+  "error_3030004": "error_3030004:block exhausted allowed resources",
+  "error_3030005": "error_3030005:block is too old to push",
+  "error_3040000": "error_3040000:transaction exception",
+  "error_3040001": "error_3040001:Error decompressing transaction",
+  "error_3040002": "error_3040002:transaction should have at least one normal action",
+  "error_3040003": "error_3040003:transaction should have at least one required authority",
+  "error_3040004": "error_3040004:context-free action should have no required authority",
+  "error_3040005": "error_3040005:Expired Transaction",
+  "error_3040006": "error_3040006:Transaction Expiration Too Far",
+  "error_3040007": "error_3040007:Invalid Reference Block",
+  "error_3040008": "error_3040008:duplicate transaction",
+  "error_3040009": "error_3040009:duplicate deferred transaction",
+  "error_3050000": "error_3050000:action exception",
+  "error_3050001": "error_3050001:account name already exists",
+  "error_3050002": "error_3050002:Invalid Action Arguments",
+  "error_3050003": "error_3050003:eosio_assert_message assertion failure",
+  "error_3050004": "error_3050004:eosio_assert_code assertion failure",
+  "error_3060000": "error_3060000:database exception",
+  "error_3060001": "error_3060001:Permission Query Exception",
+  "error_3060002": "error_3060002:Account Query Exception",
+  "error_3060003": "error_3060003:Contract Table Query Exception",
+  "error_3060004": "error_3060004:Contract Query Exception",
+  "error_3070000": "error_3070000:WASM Exception",
+  "error_3070001": "error_3070001:error in WASM page memory",
+  "error_3070002": "error_3070002:Runtime Error Processing WASM",
+  "error_3070003": "error_3070003:Serialization Error Processing WASM",
+  "error_3070004": "error_3070004:memcpy with overlapping memory",
+  "error_3080000": "error_3080000:resource exhausted exception",
+  "error_3080001": "error_3080001:account using more than allotted RAM usage",
+  "error_3080002": "error_3080002:transaction exceeded the current network usage limit imposed on the transaction",
+  "error_3080003": "error_3080003:transaction network usage is too much for the remaining allowable usage of the current block",
+  "error_3080004": "error_3080004:transaction exceeded the current CPU usage limit imposed on the transaction",
+  "error_3080005": "error_3080005:transaction CPU usage is too much for the remaining allowable usage of the current block",
+  "error_3080006": "error_3080006:transaction took too long",
+  "error_3081001": "由于CPU资源限制，交易超时 (3081001)",
+  "error_3090000": "error_3090000:duplicate signature included",
+  "error_3090001": "error_3090001:Authorization exception",
+  "error_3090002": "error_3090002:irrelevant signature included",
+  "error_3090003": "error_3090003:provided keys, permissions, and delays do not satisfy declared authorizations",
+  "error_3090004": "error_3090004:missing required authority",
+  "error_3090005": "error_3090005:irrelevant authority included",
+  "error_3090006": "error_3090006:insufficient delay",
+  "error_3100000": "error_3100000:Miscellaneous exception",
+  "error_3100001": "error_3100001:internal state is no longer consistent",
+  "error_3100002": "error_3100002:unknown block",
+  "error_3100003": "error_3100003:unknown transaction",
+  "error_3100004": "error_3100004:corrupted reversible block database was fixed",
+  "error_3100005": "error_3100005:extracted genesis state from blocks.log",
+  "error_3100006": "error_3100006:subjective exception thrown during block production",
+  "error_3110000": "error_3110000:missing plugin exception",
+  "error_3110001": "error_3110001:Missing Chain API Plugin",
+  "error_3110002": "error_3110002:Missing Wallet API Plugin",
+  "error_3110003": "error_3110003:Missing History API Plugin",
+  "error_3110004": "error_3110004:Missing Net API Plugin",
+  "error_3120000": "wallet exception (3120000)",
+  "error_3120001": "Wallet already exists (3120001)",
+  "error_3120002": "Nonexistent wallet (3120002)",
+  "error_3120003": "Locked wallet (3120003)",
+  "error_3120004": "Missing public key (3120004)",
+  "error_3120005": "Invalid wallet password (3120005)",
+  "error_3120006": "No available wallet (3120006)",
+  "error_3120007": "Already unlocked (3120007)",
+  "error_3130000": "error_3130000:actor or contract whitelist/blacklist exception",
+  "error_3130001": "error_3130001:Authorizing actor of transaction is not on the whitelist",
+  "error_3130002": "error_3130002:Authorizing actor of transaction is on the blacklist",
+  "error_3130003": "error_3130003:Contract to execute is not on the whitelist",
+  "error_3130004": "error_3130004:Contract to execute is on the blacklist",
+  "error_3130005": "error_3130005:Action to execute is on the blacklist",
+  "error_3130006": "error_3130006:Public key in authority is on the blacklist",
+  "eth_address_for_mapping": "ETH wallet for mapping:",
+  "eth_only": "Only ETH Wallet Can use this feature",
+  "eth_private_key_tip_1": "If someone gets your private key you will get your assets directly! Please copy the private key and store it in a safe place.",
+  "eth_wallet": "ETH Wallet",
+  "eth_wallet_add_title": "Add wallet",
+  "eth_wallet_address": "ETH wallet address",
+  "eth_wallet_keystore_can_not_be_null": "Wallet Keystore cannot be empty",
+  "eth_wallet_name_can_not_be_null": "Wallet name cannot be empty",
+  "eth_wallet_password_can_not_be_null": "Password can not be blank",
+  "eth_wallet_private_key_can_not_be_null": "Wallet's private key cannot be empty",
+  "eth_wallet_seed_phrase_can_not_be_null": "Wallet mnemonic cannot be empty",
+  "export_keystore": "Export Keystore",
+  "export_private_key": "Export private key",
+  "failed_to_get_permission": "Failed to get permission",
+  "failed_to_save_photo": "Failed to save the picture",
+  "failed_to_transfer": "Transfer failed",
+  "feedback": "Feedback",
+  "find_password": "Recover password",
+  "finish_operation": "Done",
+  "forgot_password": "forget password",
+  "forgot_password_hint": "You can find password by phone number",
+  "generat_pk": "Generate PublicKey",
+  "github_open_source_address": "Github open source address",
+  "good_saved": "Saved",
+  "have_new_version": "New version {}",
+  "help_other": "Help others registering new account",
+  "how_to_get_invite": "How to Get",
+  "how_to_get_invite_address": "https://meet.one/voucher_en.html",
+  "how_to_get_invite_title": "Get Invitation",
+  "how_to_get_regist_address": "https://meet.one/account_en.html",
+  "how_to_regist_sub_title": "Guide",
+  "how_to_regist_title": "Account registration tutorial",
+  "i_know": "I know",
+  "im_new": "New User",
+  "im_old": "Old User",
+  "import": "Import",
+  "import_eos_wallet": "Import EOS Wallet",
+  "import_eth_wallet": "Import ETH wallet",
+  "import_other_eth_wallet": "Import other ETH wallets",
+  "import_wallet": "Import wallet",
+  "import_wallet_by_keystore_title": "Keystore",
+  "import_wallet_by_private_key": "Private key",
+  "import_wallet_by_seed_phrase": "Mnemonic",
+  "import_wallet_title": "Import ETH Wallet",
+  "invalid_eos_account": "Only EOS account can be identified",
+  "invalid_eth_wallet_address": "Only ETH wallet address can be identified",
+  "invalid_eth_wallet_private_key": "Wallet private key format is wrong",
+  "invalid_qr_code": "Unrecognized QR code",
+  "invalid_seed_phrase": "Your mnemonic is in the wrong format",
+  "is_newest_version": "This is the newest version",
+  "keystore_input_placeholder": "Copy and paste the Ethereum wallet directly from the Keystore file content from here.",
+  "keystore_password": "Keystore password",
+  "language": {
+    "chinese": "中文",
+    "english": "English",
+    "korean": "한국어"  
+  },
+  "language_first": "The first language \"{}\" ?",
+  "language_second": "The second language \"{}\" ?",
+  "language_setting_title": "Language",
+  "link_to_mainnet": "Communicating with mainnet",
+  "loading": "Loading",
+  "login": "Login",
+  "login_failed": "Login failed, please try again later",
+  "login_with_exist_account": "Login",
+  "logout": "sign out",
+  "main_page_menu": {
+    "receive_money": "Receipt",
+    "scan": "Scan",
+    "transaction_history": "Transaction",
+    "transfer": "Transfer"
+  },
+  "main_tab": {
+    "discovery": "Discovery",
+    "meet": "Assets",
+    "mine": "Me",
+    "news": "News"
+  },
+  "mainpage_btn1_subtitle": "Import wallet by private Key",
+  "mainpage_btn1_title": "Import wallet",
+  "mainpage_btn2_subtitle": "I hava EOS in exchange, register account by smart contract",
+  "mainpage_btn2_title": "Self-Registration",
+  "mainpage_btn3_subtitle": "I want to generate keys and ask friend to create account",
+  "mainpage_btn3_title": "Register by friend",
+  "mainpage_btn4_subtitle": "I have invitation code to create account",
+  "mainpage_btn4_title": "Register by invitation code",
+  "mainpage_title_1": "I have EOS account",
+  "mainpage_title_2": "I don't have EOS account",
+  "make_sure_again": "Double confirm",
+  "make_sure_again_for_eos_private_key": "MEET.ONE will not upload your EOS wallet private key. Once it is lost, it cannot be retrieved. Please keep it safe.",
+  "manager_wallet": "Manage wallet",
+  "mapping_contract": "Mapping contract",
+  "mapping_not": "Unmapped",
+  "mapping_now": "Map now",
+  "mapping_status": "Mapping state",
+  "mapping_success": "Mapped",
+  "meet_term_title_1": "Service & Privacy Policy",
+  "meet_term_title_2": "I have carefully read and agree with {}",
+  "memo_tip_1": "Copy the following information into Memo",
+  "memo_tip_2": "Smart Contract will register account via Memo",
+  "mine": "Me",
+  "miner_fee": "Miners' fees:",
+  "mobile_or_email": "mobile / email",
+  "modify_success": "Successfully modified",
+  "multi_language": "Multi-language",
+  "my_eth_wallet": "My ETH address",
+  "need_help": "Need registering new account",
+  "new_account_attention": "Note: Registering account only needs to provide the public key.",
+  "new_account_attention2": "Do not disclose the following to anyone",
+  "new_account_private_key": "Private Key",
+  "new_account_public_key": "Public Key",
+  "newest": "Newest {}",
+  "news_title": "News",
+  "news_type_title": {
+    "meet_self": "News",
+    "twitter": "Twitter",
+    "wechat": "WeChat",
+    "weibo": "WeiBo"
+  },
+  "next_step": "Next",
+  "no_binding": "No binding",
+  "no_info": "No Information",
+  "no_internet_connect": "No Internet Connect",
+  "not_login_account": "no login",
+  "not_set": "Not set",
+  "notification_page_title": "Notification",
+  "official_website": "Official website",
+  "offline_save": "Save offline",
+  "offline_save_info": "It is recommended to copy or print the private key and place it in a safe place.",
+  "ok": "OK",
+  "old_account_errorMsg0": "Public key format error",
+  "old_account_key_info": "The owner public key is the same as the active public key",
+  "old_account_placeholder": "Please enter the public key of the owner",
+  "operate_failed": "Operation failed, please try again later",
+  "order_confirm": "Order confirm",
+  "password": "Password",
+  "password2": "Repeat password",
+  "password_format_hint": "The password is 8-16 characters in length and supports characters, numbers, and symbols. Spaces are not supported.",
+  "password_is_not_correct": "Password is not correct",
+  "password_is_not_same": "Password is not the same",
+  "password_is_not_the_same": "Password is not the same",
+  "password_is_tooshort": "Password require at least 8 characters",
+  "password_modify_success": "Modified successfully, please Login again",
+  "password_old": "Old password",
+  "password_shot_length_tip": "Password min length is 8",
+  "password_tip_hint": "Password hint information (optional)",
+  "password_verify": "Verify password",
+  "phone_number": "phone number",
+  "please_agree_meet_term": "Please agree to the service and privacy policy",
+  "please_input_amount": "Please enter the amount",
+  "please_input_correct_account": "Invalid account format",
+  "please_input_private_key": "Please enter the private key.",
+  "please_input_private_key_1": "Please input private key",
+  "please_input_receiver_account": "Please enter the account of the recipient",
+  "please_input_receiver_address": "Please enter the address of the recipient",
+  "please_input_seed_phrase": "Please enter mnemonics, separated by spaces.",
+  "please_input_verify_password": "Please input verify password",
+  "please_input_wallet_password": "Wallet password",
+  "please_select_network": "Please select network",
+  "please_set_password_hint": "Set password hint",
+  "please_set_password_tip": "Please set a password",
+  "please_set_voucher_tip": "Please offer your invite code",
+  "please_set_wallet_name": "Please set wallet name",
+  "pls_input_account": "Please input Username",
+  "pls_input_image_verify_code": "Please enter the graphic verification code",
+  "pls_input_phone": "Please input Phone number",
+  "pls_input_pwd": "Please enter your password",
+  "pls_input_token": "Please input verify code",
+  "press_to_refund": "Press to Refund",
+  "privacy": "Privacy Policy",
+  "profile": "Personal information",
+  "progress_link": "Progress link",
+  "public_key": "Public Key",
+  "push_setting_title": "Message push",
+  "qr_code_title": "Collection code",
+  "qr_scan_title": "Scan",
+  "qr_share_tip_1": "Scan QR code",
+  "qr_share_tip_2": "Get most trusted news about EOS.",
+  "quickly": "FAST",
+  "ram_balance": "Balance: ",
+  "ram_buy": "Buy RAM",
+  "ram_buy_sell": "Buy/Sell RAM",
+  "ram_done": "Submit",
+  "ram_estimate": "About",
+  "ram_price": "Price",
+  "ram_sell": "Sell RAM",
+  "ram_tips1": "The result is estimated by the recent transactions.",
+  "ram_tips2": "Current RAM price: ",
+  "ram_tips3": "Usage RAM can't be sold",
+  "ram_tips4": "In order to ensure the success of the transaction, please keep at least 1KB of RAM",
+  "ram_usage": "Usage: ",
+  "receive": "Receipt",
+  "receiver_address": "Receipt address",
+  "receiver_wallet_address": "Receiver's wallet address",
+  "recommend_meet": "Share MEET.ONE",
+  "recommend_to_friends": "Share MEET.ONE",
+  "register": "Register",
+  "register_account": "Register Account",
+  "register_account_error": "Registration failed",
+  "register_account_info": "New account name should be 12 lowercase alphanumeric that are a-z or 1–5.",
+  "register_account_successfully": "Registration success",
+  "register_account_title": "Registering Account",
+  "register_by_contract": "Self-Register",
+  "register_failed": "Registration failed, please try again later",
+  "register_hint": "MEET.ONE only supports the registration of mobile phone numbers in mainland China for the time being.",
+  "register_mean_agree": "Registration is agreed",
+  "register_new_account": "Register new account",
+  "registration_complete": "Registration is complete",
+  "registration_complete_1": "Perfect,",
+  "registration_complete_2": "account has been registered totally",
+  "remark": "Note",
+  "repeat_password": "Repeat password",
+  "repeat_password_error": "Please re-enter the same password",
+  "request_failed": "Request failed, please try again later",
+  "request_permission": "Request for access",
+  "request_permission_album": "Want to save pictures to your album",
+  "resend": "Resend",
+  "resend_count_down": "Resend({})",
+  "resource": "Resources",
+  "risk_alert": "Warning",
+  "risk_alert_android": "Please do NOT import or create wallet if your device has been root. It may have high risk.",
+  "risk_alert_ios": "Please do NOT import or create wallet if your device is jailbreaking. It may have high risk.",
+  "save_keystore_tip_1": "Please copy and paste the Keystore file to a safe, offline place to save. Do not save to email, notepad, web disk, chat tools, etc. This can be very dangerous.",
+  "save_keystore_tip_2": "Do not use network transmission",
+  "save_keystore_tip_3": "Do not transfer Keystore files through network tools. Once acquired by hackers, it will cause irreparable loss of assets.",
+  "save_keystore_tip_4": "Password safe deposit",
+  "save_keystore_tip_5": "If you need to save online, it is recommended that you use a password security software such as 1Password to save Keystore.",
+  "save_offline": "Save offline",
+  "scan": "Scan",
+  "scan_download_app": "Scan QR code to download App",
+  "scan_qr_to_pay": "Scan QR code to pay me",
+  "search": "Search",
+  "select": "Choose",
+  "select_node_net": "Select Net",
+  "select_qr_code": "Select QR code",
+  "self_register_tip1": "Create an EOS account by yourself",
+  "self_register_tip2": "through transferring to smart contract.",
+  "sender_address": "Payment address",
+  "sent_verify_code_hint": "We sent a SMS verify code to your phone {}，Please input。",
+  "set_account_name": "Set account name",
+  "set_account_name_placeholder": "Please enter a 12-digit account name",
+  "set_eos_account_name": "Please set an account name",
+  "set_new_password": "Set new password",
+  "set_password": "Set Password",
+  "set_password_hint": "Please set a password",
+  "share": "Share",
+  "share_bull": "Share BULL",
+  "share_read_more": "Download MEET.ONE read full",
+  "share_title": "Share",
+  "share_to": {
+    "qq": "QQ",
+    "wechat": "WeChat",
+    "wechat_moment": "Moments",
+    "weibo": "WeiBo"
+  },
+  "slow": "SLOW",
+  "start_create": "Go",
+  "start_register_account": "start",
+  "submit": "Submit",
+  "success_to_change_wallet_password": "Successfully changed password",
+  "success_to_delete_wallet": "Successfully deleted wallet",
+  "success_to_save_photo": "Save picture successfully",
+  "success_to_submit_order": "Submit order successfully",
+  "success_to_transfer": "Success to transfer",
+  "system_settings": "Settings",
+  "the_main_net_is_not_start": "The Main Net is not start",
+  "this_is_my_eos_wallet": "This is my EOS account",
+  "this_is_my_eth_wallet": "This is my ETH address",
+  "token_detail_all": "ALL",
+  "token_detail_balance": "Balance",
+  "token_detail_in": "IN",
+  "token_detail_noMoreData": "No More Data",
+  "token_detail_out": "OUT",
+  "token_detail_title": "Token Detail",
+  "token_detail_tokenDetail": "Token Detail",
+  "token_info": "Information",
+  "token_info_address": "Contract Address",
+  "token_info_homepage": "Homepage",
+  "token_info_name": "Project Name",
+  "token_info_publish": "Release Information",
+  "token_info_publish_market": "Market Capitalization",
+  "token_info_publish_time": "Release Time",
+  "token_info_publish_total": "Total Circulation",
+  "token_list_title": "Add new assets",
+  "token_update_fail": "Update {} failed",
+  "total_balance": "Total assets CNY",
+  "transaction": "Transaction",
+  "transaction_amount": "Amount",
+  "transaction_amount_1": "Balance {} {}",
+  "transaction_detail": "Transaction Detail",
+  "transaction_hash": "Transaction Hash",
+  "transaction_history": "Transaction Record",
+  "transaction_list_title": "Transactions",
+  "transaction_time": "Transaction Time",
+  "transaction_tip": "After the transfer is successful and the minimum amount is reached, the order is confirmed",
+  "transfer": "Transfer",
+  "transfer_amount": "Payment amount:",
+  "transfer_progress_title": "Transfer progress",
+  "transfer_title": "Transfer",
+  "unbind": "Unbound",
+  "unverified": "Unverified",
+  "update_now": "Update now",
+  "user_agreement": "User Agreement",
+  "user_name": "username",
+  "user_name_exist": "Nickname has been used",
+  "verify": "Verify",
+  "verify_code": "Verify Code",
+  "verify_email_hint": "This email has not been verified. Please log in to your email to check and verify.",
+  "verify_email_resent": "Resend verification email",
+  "verify_password": "verify password",
+  "verify_phone": "Phone verify",
+  "verify_success": "Successful verification!",
+  "verify_wallet_password": "Verify Password",
+  "view_more": "View more",
+  "view_progress": "Check the progress",
+  "view_progress_1": "Check the progress:",
+  "voucher": "Invite Code",
+  "wait_to_confirm_transaction": "Pending order",
+  "waiting_for_registrations": "Waiting for registrations",
+  "waiting_time_for_transaction": "Waited for {} seconds",
+  "wallet": "Wallet",
+  "wallet_address": "Wallet address",
+  "wallet_already_exist": "Wallet already exist",
+  "wallet_change_password": "Change Password",
+  "wallet_delete": "Delete wallet",
+  "wallet_edit_title": "Edit Wallet",
+  "wallet_import": "Import wallet",
+  "wallet_manager_title": "Manage wallet",
+  "wallet_name": "Wallet name",
+  "wallet_name_change_title": "Change wallet name",
+  "wallet_name_format_1": "New Wallet",
+  "wallet_name_format_2": "New Wallet-{}",
+  "wallet_password": "Wallet password",
+  "wallet_password_change_title": "Change wallet password",
+  "wallet_seed_phrase_show_title": "Wallet mnemonic",
+  "wallet_seed_phrase_tip_1": "If someone gets your wallet mnemonic you will get your assets directly! Please copy the private key and store it in a safe place.",
+  "website_title": "website",
+  "wechat_public_account": "WeChat subscription number",
+  "withdraw_account": "Receipt Account",
+  "withdraw_amount": "Amount",
+  "withdraw_title": "Please follow the information below to withdraw EOS from the exchange",
+  "withdraw_warn_tip": "OTCBTC, Gate.io, Binance, and Bitfinex are recommended. For the sake of security, don't withdraw EOS from other exchanges.",
+
+  "account_info_title": "Account Details",
+  "account_info_create_time": "Created time",
+  "account_info_auth_manage": "Authority management",
+  "account_info_cpu_available": "CPU available",
+  "account_info_net_available": "NET available",
+  "account_info_ram_available": "RAM available",
+  "account_info_cpu_used": "CPU used",
+  "account_info_net_used": "NET used",
+  "account_info_ram_used": "RAM used",
+  "account_info_holdingRAM": "Holding RAM",
+  "account_info_advanced": "Advanced setting",
+  "auth_manage_warning": "You do not currently have permission for this account.",
+  "auth_manage_now": "Now",
+  "auth_manage_change": "Change",
+  "auth_manage_note": "Notice:",
+  "auth_manage_note_1": "- Owner Key : Have all permissions for the current EOS account.",
+  "auth_manage_note_2": "- Active Key : By default, all transactions can be done except to change the Owner Key.",
+  "auth_manage_note_3": "- For the security of your assets, it is recommended to use the Active Key to import the wallet. And keep the Owner Key in a safe place.",
+  "auth_change_title": "Change Authority",
+  "auth_change_oldkey": "Current PublicKey",
+  "auth_change_newkey": "New PublicKey",
+  "auth_change_newkey_placeholder": "Please enter the new PublicKey",
+  "auth_change_oldName": "Current Account",
+  "auth_change_newName": "New Account",
+  "auth_change_newName_placeholder": "Please enter the new account",
+  "auth_change_note_1": "- If you are replacing the currently used public key, you need to re-import the wallet with the private key to use it.",
+  "auth_change_note_2": "- Please confirm that the private key corresponding to the public key is properly kept.",
+  "auth_change_submit": "Submit",
+  "auth_change_delete": "Delete",
+  "notice": "Notice",
+  "auth_change_changewarning": "The current operation will change the permission.",
+  "auth_change_deletewarning": "The current operation will delete the permission.",
+
+  "delegate_staked_eos": "Staked (EOS)",
+  "net_available_tip": "Can only stake {} CPU according to your balance.",
+  "cpu_available_tip": "Can only stake {} NET according to your balance.",
+  "undelegate_cpu_tip": "The CPU amount to unstake is greater than staked.",
+  "undelegate_net_tip": "The NET amount to unstake is greater than staked.",
+
+  "delegate_eos_stake": "Stake",
+  "delegate_eos_unstake": "Unstake",
+
+  "delegate_note": "Note:",
+  "delegate_note_1": "- Any transaction on the EOS network will cost CPU and NET.",
+  "delegate_note_2": "- The resources used will be returned after a period of time.",
+  "delegate_note_3": "- You can unstake the resources at any time, but there will be a three-day waiting period.",
+
+  "undelegate_note_1": "- If the resources is not enough, you can not make any transactions.",
+  "undelegate_note_2": "- If some resources have been used, you can not unstake all the resources. Try reducing the unstake number.",
+  "undelegate_note_3": "- All the refunding EOS will be returned 3 days after the last unstake action.",
+
+  "select_account": "Select Account",
+  "hasImported": "Imported",
+  "import_success": "Success",
+  "select_account_tip": "Please select accounts to import",
+
+  "eos_node_selection": "Node Selection",
+  "eos_node_ping_timeout": "Timeout",
+  "eos_node_ping_neterror": "Network error",
+
+  "eos_node_selectlabel": "Available Node",
+  "eos_node_location": "Location",
+  "eos_node_speed": "Ping",
+  "eos_node_speed_tip": "* The smaller is the Ping, the faster.",
+  "eos_node_customlabel": "Custom Node",
+  "eos_node_server_url": "Node URL",
+  "eos_node_server_placeholder": "e.g.: https://mainnet.meet.one",
+  "eos_node_server_save": "Save & Apply",
+
+  "eos_recentTrans_transfer": "Transfer",
+  "eos_recentTrans_scan": "Scan Code",
+  "eos_recentTrans_recent": "Recent Transaction",
+  "eos_recentTrans_memotip": "Note：Account name and Memo are the same as the selected recent transaction，please verify or change manually."
+}
