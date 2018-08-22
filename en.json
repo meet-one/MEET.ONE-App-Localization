@@ -1270,7 +1270,7 @@
   "login_with_exist_account": "Login",
   "logout": "sign out",
   "main_page_menu": {
-    "receive_money": "Receipt",
+    "receive_money": "Receive",
     "scan": "Scan",
     "transaction_history": "Transaction",
     "transfer": "Transfer"
@@ -1394,8 +1394,8 @@
   "ram_tips3": "Usage RAM can't be sold",
   "ram_tips4": "In order to ensure the success of the transaction, please keep at least 1KB of RAM",
   "ram_usage": "Usage: ",
-  "receive": "Receipt",
-  "receiver_address": "Receipt address",
+  "receive": "Receive",
+  "receiver_address": "Receive address",
   "receiver_wallet_address": "Receiver's wallet address",
   "recommend_meet": "Share MEET.ONE",
   "recommend_to_friends": "Share MEET.ONE",
@@ -1541,7 +1541,7 @@
   "wallet_seed_phrase_tip_1": "If someone gets your wallet mnemonic you will get your assets directly! Please copy the private key and store it in a safe place.",
   "website_title": "website",
   "wechat_public_account": "WeChat subscription number",
-  "withdraw_account": "Receipt Account",
+  "withdraw_account": "Receive Account",
   "withdraw_amount": "Amount",
   "withdraw_title": "Please follow the information below to withdraw EOS from the exchange",
   "withdraw_warn_tip": "OTCBTC, Gate.io, Binance, and Bitfinex are recommended. For the sake of security, don't withdraw EOS from other exchanges.",
