@@ -1544,7 +1544,7 @@
   "withdraw_account": "받는 주소",
   "withdraw_amount": "수량",
   "withdraw_title": "EOS를 거래소에서 인출하기 위해서는 아래의 정보를 따르십시오.",
-  "withdraw_warn_tip": "OTCBTC, Gate.io, Binance 및 Bitfinex를 권장합니다. 보안을 위해 다른 거래소에서 EOS를 인출하지 마십시오.",
+  "withdraw_warn_tip": "OTCBTC, Gate.io, Chaince 및 Bitfinex를 권장합니다. 보안을 위해 다른 거래소에서 EOS를 인출하지 마십시오.",
 
   "account_info_title": "계정 세부 정보",
   "account_info_create_time": "만든 시간",
@@ -1613,5 +1613,41 @@
   "eos_node_customlabel": "커스텀 노드",
   "eos_node_server_url": "노드 URL",
   "eos_node_server_placeholder": "e.g.: https://mainnet.meet.one",
-  "eos_node_server_save": "저장 및 적용"
+  "eos_node_server_save": "저장 및 적용",
+
+  "eos_recentTrans_transfer": "Transfer",
+  "eos_recentTrans_scan": "Scan Code",
+  "eos_recentTrans_recent": "Recent Transaction",
+  "eos_recentTrans_memotip": "Note：Account name and Memo are the same as the selected recent transaction，please verify or change manually.",
+
+  "node_list_topright_text": "Proxy",
+  "thirty_node_tip": "You have selected up to 30 Nodes",
+  "node_selected": "Selected",
+  "sort_btn_text": "Sort Type",
+  "area_filter_text": "Location Filter",
+  "sort_by_recommend": "Recommend",
+  "sort_by_voterate": "Voting Ratio",
+  "area_filter_all": "All",
+  "area_filter_assia": "Asia",
+  "area_filter_america": "Ameria",
+  "area_filter_europe": "Europe",
+  "area_filter_pecific": "Oceania",
+  "area_filter_africa": "Africa",
+  "has_selected_node": "Selected Nodes",
+
+  "vote_confirm_title": "Vote",
+  "vote_staked_eos": "Staked EOS",
+  "vote_add_resources": "Add Resources",
+  "add_resource_tip": "* Vote = Stakes, add more stakes will increase the Vote.",
+
+  "vote_by_proxy": "Vote by proxy",
+  "vote_proxy_tip":"After vote by proxy, there is no need to choose a node or update the voting. The proxy will vote on behalf of you and your previous vote will be reset. Please choose a trusted agent.",
+  "vote_proxy_setting": "Proxy Setting",
+  "no_proxy": "No Proxy",
+
+  "node_server_title": "Server Configuration",
+  "node_server_location": "Server Location",
+  "node_server_desc": "Server Hardware",
+  "node_team_desc": "Team Introduction",
+  "node_contact_method": "Contact"
 }

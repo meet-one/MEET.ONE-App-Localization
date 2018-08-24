@@ -52,7 +52,7 @@
   "Password_Set_Success": "密码设置成功",
   "Password_Verify": "请输入您的密码",
   "Producers_List_Choose": "已选择",
-  "Producers_List_Title": "所有节点",
+  "Producers_List_Title": "节点投票",
   "Producers_List_Vote": "投票",
   "The_CPU_Number_is_illegal": "CPU号码是非法的",
   "The_Network_Number_is_illegal": "网络号码是非法的",
@@ -1544,7 +1544,7 @@
   "withdraw_account": "收款帐户",
   "withdraw_amount": "提币金额",
   "withdraw_title": "请按照以下信息从交易所提币",
-  "withdraw_warn_tip": "目前明确支持的交易所有 OTCBTC、Gate.io、币安、Bitfinex，请不要从其他交易所提币，避免财产损失。",
+  "withdraw_warn_tip": "目前明确支持的交易所有 OTCBTC、Gate.io、Chaince、Bitfinex，请不要从其他交易所提币，避免财产损失。",
 
   "account_info_title": "账号详情",
   "account_info_create_time": "创建时间",
@@ -1618,5 +1618,37 @@
   "eos_recentTrans_transfer": "账号转账",
   "eos_recentTrans_scan": "扫码转账",
   "eos_recentTrans_recent": "最近转账",
-  "eos_recentTrans_memotip": "注意：账号 及 Memo 根据上一次转账操作记录，请确认信息正确，避免财产损失。"
+  "eos_recentTrans_memotip": "注意：账号 及 Memo 根据上一次转账操作记录，请确认信息正确，避免财产损失。",
+
+  "node_list_topright_text": "代理投票",
+  "thirty_node_tip": "您已经选择了 30 个节点",
+  "node_selected": "已选",
+  "sort_btn_text": "推荐排序",
+  "area_filter_text": "地域筛选",
+  "sort_by_recommend": "推荐排序",
+  "sort_by_voterate": "得票率",
+  "area_filter_all": "不限",
+  "area_filter_assia": "亚洲",
+  "area_filter_america": "美洲",
+  "area_filter_europe": "欧洲",
+  "area_filter_pecific": "大洋洲",
+  "area_filter_africa": "非洲",
+  "has_selected_node": "已选节点",
+
+  "vote_confirm_title": "投票",
+  "vote_staked_eos": "抵押总数",
+  "vote_add_resources": "增加抵押资源",
+  "add_resource_tip": "* 节点得票数 = 抵押总数，增加抵押资源就可以增加票数。",
+
+  "vote_by_proxy": "代理投票",
+  "vote_proxy_tip": "通过代理进行投票后，无需自行选择节点或更新投票，将由代理代为投票，且已投出票会被重置。请选择信任的代理。",
+  "vote_proxy_setting": "代理设置",
+  "no_proxy": "关闭代理",
+
+  "node_server_title": "服务配置",
+  "node_server_location": "节点位置",
+  "node_server_desc": "服务器配置",
+  "node_team_desc": "团队介绍",
+  "node_contact_method": "联系方式"
+
 }
