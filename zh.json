@@ -1636,9 +1636,9 @@
   "has_selected_node": "已选节点",
 
   "vote_confirm_title": "投票",
-  "vote_staked_eos": "抵押总数",
+  "vote_staked_eos": "已抵押总数",
   "vote_add_resources": "增加抵押资源",
-  "add_resource_tip": "* 节点得票数 = 抵押总数，增加抵押资源就可以增加票数。",
+  "add_resource_tip": "* 节点得票数 = 已抵押总数，增加抵押资源就可以增加票数。",
 
   "vote_by_proxy": "代理投票",
   "vote_proxy_tip": "通过代理进行投票后，无需自行选择节点或更新投票，将由代理代为投票，且已投出票会被重置。请选择信任的代理。",
