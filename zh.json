@@ -57,7 +57,7 @@
   "Producers_List_Vote": "投票",
   "The_CPU_Number_is_illegal": "CPU号码是非法的",
   "The_Network_Number_is_illegal": "网络号码是非法的",
-  "UnDelegatebwPage availableBW": "最大可分配资源",
+  "UnDelegatebwPage_availableBW": "最大可分配资源",
   "UnDelegatebwPage_Available": "可用",
   "UnDelegatebwPage_CPU": "CPU",
   "UnDelegatebwPage_Confirm": "确认",
