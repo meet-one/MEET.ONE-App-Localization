@@ -129,7 +129,7 @@
   "add_new_one_account_2": "EOS,and assign according to the following rules to ensure that the new account can be used normally.",
   "add_new_token": "Add new token",
   "add_new_wallet": "Import ETH Wallet",
-  "add_resource_tip": "* Vote = Stakes, add more stakes will increase the Vote.",
+  "add_resource_tip": "Add more resources will increase the vote weight.",
   "address": "Address",
   "album": "Album",
   "all_in": "All",
@@ -140,7 +140,7 @@
   "area_filter_assia": "Asia",
   "area_filter_europe": "Europe",
   "area_filter_pecific": "Oceania",
-  "area_filter_text": "Location Filter",
+  "area_filter_text": "Location",
   "ask_me_later": "Ask me later",
   "assets": "Assets",
   "auth_change_changewarning": "The current operation will change the permission.",
@@ -1615,7 +1615,9 @@
   "vote_confirm_title": "Vote",
   "vote_proxy_setting": "Proxy Setting",
   "vote_proxy_tip": "After vote by proxy, there is no need to choose a node or update the voting. The proxy will vote on behalf of you and your previous vote will be reset. Please choose a trusted agent.",
+  "vote_proxy_weigth": "Voting Weight:",
   "vote_staked_eos": "Staked EOS",
+  "vote_total": "Total",
   "voucher": "Invite Code",
   "wait_to_confirm_transaction": "Pending order",
   "waiting_for_registrations": "Waiting for registrations",
@@ -1652,5 +1654,6 @@
   "custom_stake_tip": "By default, you stake resources for others, and you can withdraw the staked resources at any time. \nIf you select \"Transfer\", the staked resources will not be recoverable.Please operate with caution",
   "custom_stake_unstake": "Unstake",
   "no_account": "Please import at least one EOS account.",
-  "not_match_account": "EOS account mismatch"
+  "not_match_account": "EOS account mismatch",
+  "transaction_success": "Successful"
 }

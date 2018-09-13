@@ -129,7 +129,7 @@
   "add_new_one_account_2": "EOS，并且按照以下规则进行分配，以保证新帐号能正常使用。",
   "add_new_token": "添加新资产",
   "add_new_wallet": "导入 ETH 钱包",
-  "add_resource_tip": "* 节点得票数 = 已抵押总数，增加抵押资源就可以增加票数。",
+  "add_resource_tip": "总投出票数 = 当前已抵押资源 + 新抵押的 CPU 和 NET",
   "address": "地址",
   "album": "相册",
   "all_in": "全仓",
@@ -1610,12 +1610,14 @@
   "view_more": "查看更多",
   "view_progress": "查看进度",
   "view_progress_1": "查看进度：",
-  "vote_add_resources": "增加抵押资源",
+  "vote_add_resources": "新增抵押资源",
   "vote_by_proxy": "代理投票",
   "vote_confirm_title": "投票",
   "vote_proxy_setting": "代理设置",
   "vote_proxy_tip": "通过代理进行投票后，无需自行选择节点或更新投票，将由代理代为投票，且已投出票会被重置。请选择信任的代理。",
-  "vote_staked_eos": "已抵押总数",
+  "vote_proxy_weigth": "投票权重:",
+  "vote_staked_eos": "已抵押资源",
+  "vote_total": "总投出票数",
   "voucher": "邀请码",
   "wait_to_confirm_transaction": "待确认订单",
   "waiting_for_registrations": "请等待获取批量注册结果",
@@ -1652,5 +1654,6 @@
   "custom_stake_tip": "默认采用租赁的形式为他人抵押资源，您可以随时收回抵押的资源。\n开启「转移资源」后，抵押给其他账号的资源将不可收回，请慎重操作。",
   "custom_stake_unstake": "赎回",
   "no_account": "请至少导入一个EOS账号",
-  "not_match_account": "EOS账号不匹配"
+  "not_match_account": "EOS账号不匹配",
+  "transaction_success": "操作成功"
 }
