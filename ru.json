@@ -1679,6 +1679,7 @@
   "application_lock_auth_required": "Authentication",
 
   "generate_keys": "Generate Key",
+
   "eos_browser_banner_url": "../../../imgs/eos-browser-en.png",
   "eos_browser_history": "History",
   "eos_browser_history_clear": "Clear All",
