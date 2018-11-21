@@ -159,9 +159,9 @@
   "auth_change_title": "권한 변경",
   "auth_manage_change": "변경",
   "auth_manage_note": "주의:",
-  "auth_manage_note_1": "- Owner : 현재 EOS 계정의 모든 권한을 소지합니다.",
-  "auth_manage_note_2": "- Active : Owner 의 변경을 제외하고 모든 거래 권한을 가집니다.",
-  "auth_manage_note_3": "- 자산의 안전을 위해 Active Permissions를 이용하여 지갑 도입을 권장합니다.  Owner Permissions를 신중하게 보관하시길 바랍니다.",
+  "auth_manage_note_1": "- Owner Key : 현재 EOS 계정의 모든 권한을 소지합니다.",
+  "auth_manage_note_2": "- Active Key : Owner Key의 변경을 제외하고 모든 거래 권한을 가집니다.",
+  "auth_manage_note_3": "- 자산의 안전을 위해 Active Key를 이용하여 지갑 도입을 권장합니다.  Owner Key를 신중하게 보관하시길 바랍니다.",
   "auth_manage_now": "현재",
   "auth_manage_warning": "현재 이 계정에 대한 권한이 없습니다.",
   "authorization_account": "계정에 권한을 부여하기.",
@@ -1703,8 +1703,5 @@
   "hot_dapps": "Hot Dapps",
   "recent_visited": "Recent Visited",
   "clean_recent_visited_alert": "Sure to clear the history records",
-  "submit_dapp": "Submit DApp",
-  "share_code_1": "Copy this paragraph $ ",
-  "share_code_2": " $ then open the portal to EOS ecology MEET.ONE",
-  "share_code_open": "Open Share"
+  "submit_dapp": "Submit DApp"
 }

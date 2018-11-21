@@ -158,9 +158,9 @@
   "auth_change_title": "Change Authority",
   "auth_manage_change": "Change",
   "auth_manage_note": "Notice:",
-  "auth_manage_note_1": "- Owner : Have all permissions for the current EOS account.",
-  "auth_manage_note_2": "- Active : By default, all transactions can be done except to change the Owner.",
-  "auth_manage_note_3": "- For the security of your assets, it is recommended to use the Active Permissions to import the wallet. And keep the Owner Permissions in a safe place.",
+  "auth_manage_note_1": "- Owner Key : Have all permissions for the current EOS account.",
+  "auth_manage_note_2": "- Active Key : By default, all transactions can be done except to change the Owner Key.",
+  "auth_manage_note_3": "- For the security of your assets, it is recommended to use the Active Key to import the wallet. And keep the Owner Key in a safe place.",
   "auth_manage_now": "Now",
   "auth_manage_warning": "You do not currently have permission for this account.",
   "authorization_account": "Access Account",
@@ -1705,8 +1705,6 @@
   "hot_dapps": "Hot Dapps",
   "recent_visited": "Recent Visited",
   "clean_recent_visited_alert": "Sure to clear the history records",
-  "submit_dapp": "Submit DApp",
-  "share_code_1": "Copy this paragraph $ ",
-  "share_code_2": " $ then open the portal to EOS ecology MEET.ONE",
-  "share_code_open": "Open Share"
+  "submit_dapp": "Submit DApp"
+
 }

@@ -158,9 +158,9 @@
   "auth_change_title": "变更权限",
   "auth_manage_change": "更换",
   "auth_manage_note": "注意：",
-  "auth_manage_note_1": "- Owner : 拥有当前 EOS 账号的所有权限。",
-  "auth_manage_note_2": "- Active : 默认情况下，可以完成除更改 Owner 以外的所有交易。",
-  "auth_manage_note_3": "- 为了您的资产安全，建议使用 Active 权限导入钱包日常使用。并妥善保管 Owner 权限对应的私钥。",
+  "auth_manage_note_1": "- Owner Key : 拥有当前 EOS 账号的所有权限。",
+  "auth_manage_note_2": "- Active Key : 默认情况下，可以完成除更改 Owner Key 以外的所有交易。",
+  "auth_manage_note_3": "- 为了您的资产安全，建议使用 Active Key 导入钱包日常使用。并妥善保管 Owner Key。",
   "auth_manage_now": "当前",
   "auth_manage_warning": "您当前没有此账号的权限",
   "authorization_account": "授权账号",
@@ -1704,8 +1704,5 @@
   "hot_dapps": "热门应用",
   "recent_visited": "最近访问",
   "clean_recent_visited_alert": "确认是否清空历史记录",
-  "submit_dapp": "提交 DApp",
-  "share_code_1": "复制这段话 $ ",
-  "share_code_2": " $ 后到 EOS 生态入口 MEET.ONE",
-  "share_code_open": "打开口令"
+  "submit_dapp": "提交 DApp"
 }
