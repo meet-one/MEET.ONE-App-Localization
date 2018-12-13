@@ -1,0 +1,1717 @@
+{
+  "Broadcast_is_empty": "ブロードキャストは空です",
+  "DelegatebwPage_Available": "利用可能",
+  "DelegatebwPage_CPU": "CPU",
+  "DelegatebwPage_Confirm": "確認する",
+  "DelegatebwPage_Network": "Network",
+  "DelegatebwPage_NoEnoughBW": "抵当にするEOSが足りない",
+  "DelegatebwPage_NoNegative": "値には負の値を設定できません",
+  "DelegatebwPage_Rule": "ルール*",
+  "DelegatebwPage_Rule1": "· 投票ではCPUとネットワークリソースの一部が使用されます",
+  "DelegatebwPage_Rule2": "· 時間の経過とともに投票の重みが減少する",
+  "DelegatebwPage_Rule3": "· 「EOSの償還」をいつでも選択することができます。これによりノードへの投票が減り、EOSは3日以内にアカウントを返却します。",
+  "DelegatebwPage_StakeCount": "抵当にするリソース総額",
+  "DelegatebwPage_StakeQuantity": "リソース数",
+  "DelegatebwPage_Title": "抵当にするEOS",
+  "DelegatebwPage_UseValidValue": "有効な値を入力してください",
+  "DelegatebwPage_availableBW": "利用可能な帯域幅",
+  "Global_Development_Team": "MEET.ONE開発チーム",
+  "Global_Total_Votes_Percentage": "投票総数の割合",
+  "Global_Upgrade_Description": "MEET.ONEウォレットが新しいバージョンをリリースしました。「更新」をクリックしてダウンロードページに移動してください。",
+  "Global_Upgrade_Later": "後ほど",
+  "Global_Upgrade_Notice": "アップグレードの通知",
+  "Global_Upgrade_Now": "アップグレード",
+  "HomePage_Choose_one_net": "接続するネットワークを選択してください",
+  "HomePage_Hint": "秘密鍵を入力してください",
+  "HomePage_InvalidPrivateKey": "無効な秘密鍵",
+  "HomePage_Mainnet_not_ready": "メインネットワークはまだ準備ができていません。テストネット環境を選択してください。",
+  "HomePage_NoAccountFound": "関連するアカウントが見つかりません",
+  "HomePage_PleaseCancel": "キャンセル",
+  "HomePage_PleaseEnterComplete": "完全な情報を入力してください",
+  "HomePage_PleaseSure": "はい",
+  "HomePage_SomethingWrong": "ネットワークエラー",
+  "HomePage_Submit": "提出する",
+  "HomePage_Testnet_Dialog_Cancel": "閉じる",
+  "HomePage_Testnet_Dialog_Desc": "私たちのテストサイトhttp://vote.eosio.sgを使ってテスト秘密鍵を生成してください",
+  "HomePage_Testnet_Dialog_OK": "続ける",
+  "HomePage_Testnet_Dialog_Title": "お知らせ",
+  "HomePage_choiceAccount": "アカウントを選択",
+  "HomePage_importWallet": "ウォレットをインポートする",
+  "HomePage_privateKey": "個人秘密鍵",
+  "MEET_ONE": "MEET.ONE",
+  "Node_Choose": "選択された",
+  "Node_Vote": "投票する",
+  "Node_Vote_List": "選択リスト",
+  "Password_Check": "もう一度パスワードを確認してください",
+  "Password_Clear": "パスワードをクリアする",
+  "Password_Hint": "パスワードヒント：",
+  "Password_Incorrect": "間違ったパスワード",
+  "Password_Input": "設定したいパスワードを入力してください",
+  "Password_Invalid": "不一致のパスワードが2回入力されました",
+  "Password_Set": "パスワードを設定する",
+  "Password_Set_Success": "パスワード設定が成功しました",
+  "Password_Verify": "パスワードを入力してください",
+  "Producers_List_Choose": "選択された",
+  "Producers_List_Title": "ノードの投票",
+  "Producers_List_Vote": "投票する",
+  "The_CPU_Number_is_illegal": "不正なCPU番号",
+  "The_Network_Number_is_illegal": "不正なネットワーク番号",
+  "UnDelegatebwPage availableBW": "最大割り当て可能資源",
+  "UnDelegatebwPage_Available": "利用可能",
+  "UnDelegatebwPage_CPU": "CPU",
+  "UnDelegatebwPage_Confirm": "確認する",
+  "UnDelegatebwPage_Network": "Network",
+  "UnDelegatebwPage_StakeCount": "現在抵当されているのリソース",
+  "UnDelegatebwPage_StakeCountInfo": "* EOSは3日後に[利用可能な残高]に戻ります",
+  "UnDelegatebwPage_StakeQuantity": "償還できるEOS数",
+  "UnDelegatebwPage_Title": "EOSを償還する",
+  "VoteIndexPage_AddDelegatebw": "EOSを抵当にする",
+  "VoteIndexPage_Balance": "利用可能な残高",
+  "VoteIndexPage_ChangeWallet": "ウォレットを入れ替える",
+  "VoteIndexPage_RAMBytes": "RAM",
+  "VoteIndexPage_Refunding": "払い戻しをしています",
+  "VoteIndexPage_Revote": "投票を開始する",
+  "VoteIndexPage_Title": "MEET.ONE",
+  "VoteIndexPage_TotalAsset": "アカウントの総資産",
+  "VoteIndexPage_Undelegatebw": "EOSを償還する",
+  "VoteIndexPage_Vote": "投票",
+  "VoteIndexPage_VoteDesc": "EOS抵当の取り消しは自動的に投票を取り消し、抵当されたEOSは3日後に「利用可能な残高」に戻ります。",
+  "VoteIndexPage_VotedBps": "投票したノード",
+  "VoteIndexPage_userName": "ユーザー名",
+  "VotePage_Rule1": "· 投票ではCPUとネットワークリソースの一部が使用されます",
+  "VotePage_Rule2": "· 時間の経過とともに投票の重みが減少する",
+  "VotePage_Rule3": "· 「EOSの償還」をいつでも選択することができます。これによりノードへの投票が減り、EOSは3日以内にアカウントを返却します。",
+  "VotePage_RuleT": "规则*",
+  "VotePage_account": "アカウント名",
+  "VotePage_balance": "利用可能な残高",
+  "VotePage_bpList": "選択されたノードリスト",
+  "VotePage_cancel": "キャンセル",
+  "VotePage_confirm": "確認する",
+  "VotePage_delegatebw": "リソースの割り当て状況",
+  "VotePage_gotIt": "了解しました",
+  "VotePage_notice": "お知らせ",
+  "VotePage_noticeC": "あなたはいつでも「再投票」、「EOSを抵当にする」または「EOSを償還する」ことができます。 投票はCPUとネットワークを使用します。",
+  "VotePage_stake": "投票できるEOSを抵当にする",
+  "VotePage_submit": "提出する",
+  "VotePage_vote": "投票する",
+  "VotePage_vote_fail": "リクエストが失敗しました",
+  "VotePage_vote_success": "成功しました",
+  "WalletPage_PleaseCancel": "キャンセル",
+  "WalletPage_PleaseSure": "続ける",
+  "WalletPage_Title": "お知らせ",
+  "WalletPage_changeWallet": "アカウントを変更する",
+  "WalletPage_confirmContent": "アカウントを変更する前にEOS秘密鍵のバックアップを作成してください。",
+  "WalletPage_totalAssets": "合計残高",
+  "about_us": "私たちについて",
+  "account": "アカウント",
+  "account_at_least_one": "少なくとも1つのアカウント情報が必要です",
+  "account_info_advanced": "詳細な設定",
+  "account_info_auth_manage": "権限管理",
+  "account_info_cpu_available": "利用できるCPU量",
+  "account_info_cpu_used": "使用されたCPU量",
+  "account_info_create_time": "作成時間",
+  "account_info_holdingRAM": "持っているRAM量",
+  "account_info_net_available": "利用できるNET量",
+  "account_info_net_used": "使用されたNET量",
+  "account_info_ram_available": "利用できるRAM量",
+  "account_info_ram_used": "使用されたRAM量",
+  "account_info_title": "アカウントの詳細",
+  "account_make_sure": "必要に応じてアカウント名を正しく記入してください",
+  "account_make_sure_1": "アカウントの最低量を確保する",
+  "account_make_sure_2": "，登録を成功させるため",
+  "account_make_sure_info": "*アカウントは12桁でなければなりません",
+  "account_not_exist": "アカウントは存在しない",
+  "add_a_new_eos_wallet": "EOSウォレットを作成する",
+  "add_a_new_eth_wallet": "ETHウォレットを追加する",
+  "add_account": "アカウント名",
+  "add_new_one_account": "新しいアイテムを追加する",
+  "add_new_one_account_1": "新しいアカウントはそれぞれ約",
+  "add_new_one_account_2": "，新しいアカウントを正常に使用できるように、次のルールに従って割り当てます。",
+  "add_new_token": "新しいアセットを追加する",
+  "add_new_wallet": "ETHウォレットをインポートする",
+  "add_resource_tip": "総投票数=現在抵当さらたEOS+新しい抵当されたCPUとNET",
+  "address": "アドレス",
+  "album": "アルバム",
+  "all_in": "全部にする",
+  "app_name": "MEET.ONE",
+  "area_filter_africa": "アフリカ",
+  "area_filter_all": "無制限",
+  "area_filter_america": "アメリカ",
+  "area_filter_assia": "アジア",
+  "area_filter_europe": "ヨーロッパ",
+  "area_filter_pecific": "オセアニア",
+  "area_filter_text": "地域の選別",
+  "ask_me_later": "後ほどで通知する",
+  "assets": "アセット",
+  "auth_change_changewarning": "現在の操作は、対応するアクセス権を置き換えます、それは置き換えられると決定されますか？",
+  "auth_change_delete": "删除",
+  "auth_change_deletewarning": "現在の操作は対応するパーミッションを削除します、それは削除することを決定しますか？",
+  "auth_change_newName": "新しアカウント名",
+  "auth_change_newName_placeholder": "変更したいアカウント名を入力してください",
+  "auth_change_newkey": "新しい公開鍵",
+  "auth_change_newkey_placeholder": "変更したい公開鍵を入力してください",
+  "auth_change_note_1": "- 現在使用されている公開鍵を置き換える場合は、使用する前に秘密鍵を再利用してウォレットをインポートする必要があります。",
+  "auth_change_note_2": "- 公開鍵に対応する秘密鍵が適切に保管されていることを確認してください。",
+  "auth_change_oldName": "現在のアカウント名",
+  "auth_change_oldkey": "現在の公開鍵",
+  "auth_change_submit": "変更を提出する",
+  "auth_change_title": "権限を変更する",
+  "auth_manage_change": "変更する",
+  "auth_manage_note": "注意：",
+  "auth_manage_note_1": "- Owner : 現在のEOSアカウントに対してすべての権限を持ちます。",
+  "auth_manage_note_2": "- Active : デフォルトでは、Ownerの変更を除くすべてのトランザクションを完了することができます。",
+  "auth_manage_note_3": "- 資産のセキュリティを確保するには、毎日の使用のためにウォレットをActiveなアクセス権でインポートすることをお勧めします。 Ownerの権限に対応する秘密鍵を保持します。",
+  "auth_manage_now": "現在",
+  "auth_manage_warning": "現在、このアカウントのアクセス権がありません ",
+  "authorization_account": "承認されたアカウント",
+  "authorization_change": "変更する",
+  "authorization_confirm": "承認を確認する",
+  "authorization_desc": "あなたのEOSアカウント情報を取得する必要があります",
+  "authorization_permission": "承認後、アプリには次の権限が付与されます：",
+  "authorization_permission_01": "· EOSアカウント情報を取得する",
+  "authorization_permission_notice": "注意：アカウント認証はあなたの秘密鍵を共有しません。",
+  "authorization_notice": "現在のアプリケーションは、第三者によって開発され、真正性に注意してください。",
+  "authorization_title": "アカウントの承認",
+  "auto_translate": "自動翻訳：",
+  "backup_keystore": "Keystoreをバックアップする",
+  "backup_private_key_tip_1": "オフラインで保存する",
+  "backup_private_key_tip_2": "秘密鍵をコピーまたは印刷して安全な場所に保管することをお勧めします。",
+  "backup_private_key_tip_3": "ネットワーク伝送を使用しないでください",
+  "backup_private_key_tip_4": "Wechatなどを使用してコンピュータに送信するなど、秘密キーを転送するためにネットワークツールを使用しないでください。 ハッカーによって獲得されると、それは回復不能な資産損失を引き起こすでしょう。",
+  "backup_private_key_title": "秘密鍵をバクアップする",
+  "bind": "关联する",
+  "bind_email": "メールアドレスを关联する",
+  "block_number": "ブロック番号",
+  "bulk_account_tips1": "注：新しく登録されたアカウント名は",
+  "bulk_account_tips2": "と同じな公開鍵/秘密鍵ペアを使用する",
+  "buy_sell_ram": "RAM",
+  "cancel": "キャンセル",
+  "cant_transferto_self": "自分に送金できない",
+  "change_email_hint": "メールアドレスを変更した場合は、メールアドレスを再認証する必要があります。",
+  "change_name": "ユーザー名を変更する",
+  "change_password": "パスワードを変更する",
+  "change_pwd": "パスワードを変更する",
+  "check_again": "チェックしてください",
+  "check_update": "アップデートをチェックします",
+  "choose_country": "国または地域を選択",
+  "choose_eth_wallet": "ETHウォレットを選択する",
+  "choose_token": "Tokens",
+  "choose_wallet": "ウォレットを選択する",
+  "close": "閉じる",
+  "complete": "完成",
+  "confirm": "確認する",
+  "confirm_to_transfer": "トランザクションを確認する",
+  "contract_account_warning": "このアカウントはコントラクトアカウントです。 EOSネットワーク上のスマートコントラクトは変更できるため、移行前にスマートコントラクト内容を確認してください。。",
+  "copy": "コピー",
+  "copy_account_success": "アカウントを成功にコピーしました",
+  "copy_address_success": "アドレスを成功にコピーしました",
+  "copy_eos_account": "ユーザー名をコピーする",
+  "copy_success": "無事にコピーしました!",
+  "copy_wallet_address": "ウォレットアドレスをコピーする",
+  "cost_tip_1": "注：0.2 EOSはCPUとNETに抵当権を付与し、残りは約4KBのRAMを購入する予定です。",
+  "cost_tip_2": "* このサービスは、オープンソースDApp signupeoseosによって提供されています。",
+  "country": {
+    "AD": {
+      "sort": "AN DAO ER",
+      "value": "安道尔"
+    },
+    "AE": {
+      "sort": "A LA BO LIAN HE QIU ZHANG GUO",
+      "value": "阿拉伯联合酋长国"
+    },
+    "AF": {
+      "sort": "A FU HAN",
+      "value": "阿富汗"
+    },
+    "AG": {
+      "sort": "AN TI GUA HE BA BU DA",
+      "value": "安提瓜和巴布达"
+    },
+    "AI": {
+      "sort": "AN GUI LA",
+      "value": "安圭拉"
+    },
+    "AL": {
+      "sort": "A ER BA NI YA",
+      "value": "阿尔巴尼亚"
+    },
+    "AM": {
+      "sort": "YA MEI NI LA",
+      "value": "亚美尼亚"
+    },
+    "AN": {
+      "sort": "HE SHU AN DE LIE SI",
+      "value": "荷属安的列斯"
+    },
+    "AO": {
+      "sort": "AN GE LA",
+      "value": "安哥拉"
+    },
+    "AR": {
+      "sort": "A GEN TING",
+      "value": "阿根廷"
+    },
+    "AT": {
+      "sort": "O DI LI",
+      "value": "奥地利"
+    },
+    "AU": {
+      "sort": "AO DA LI YA",
+      "value": "澳大利亚"
+    },
+    "AW": {
+      "sort": "A LU BA",
+      "value": "阿鲁巴"
+    },
+    "AZ": {
+      "sort": "A SAI BAI JIANG",
+      "value": "阿塞拜疆"
+    },
+    "BA": {
+      "sort": "BO SI NI YA HEI SAI GE WEI NA",
+      "value": "波斯尼亚黑塞哥维那"
+    },
+    "BB": {
+      "sort": "BA BA DUO SI",
+      "value": "巴巴多斯"
+    },
+    "BD": {
+      "sort": "MENG JIA LA GUO",
+      "value": "孟加拉国"
+    },
+    "BE": {
+      "sort": "BI LI SHI",
+      "value": "比利时"
+    },
+    "BF": {
+      "sort": "BU JI NA FA SUO",
+      "value": "布基纳法索"
+    },
+    "BG": {
+      "sort": "BAO JIA LI YA",
+      "value": "保加利亚"
+    },
+    "BH": {
+      "sort": "BA LIN",
+      "value": "巴林"
+    },
+    "BI": {
+      "sort": "BU LONG DI",
+      "value": "布隆迪"
+    },
+    "BJ": {
+      "sort": "BEI NING",
+      "value": "贝宁"
+    },
+    "BM": {
+      "sort": "BAI MU DA",
+      "value": "百慕大"
+    },
+    "BN": {
+      "sort": "WEN LAI DA LU SA LAN GUO",
+      "value": "文莱达鲁萨兰国"
+    },
+    "BO": {
+      "sort": "BO LI WEI YA",
+      "value": "玻利维亚"
+    },
+    "BR": {
+      "sort": "BA XI",
+      "value": "巴西"
+    },
+    "BS": {
+      "sort": "BA HA MA",
+      "value": "巴哈马"
+    },
+    "BT": {
+      "sort": "BU DAN",
+      "value": "不丹"
+    },
+    "BW": {
+      "sort": "BO CI WA NA",
+      "value": "博茨瓦纳"
+    },
+    "BY": {
+      "sort": "BAI E LUO SI",
+      "value": "白俄罗斯"
+    },
+    "BZ": {
+      "sort": "BO LI ZI",
+      "value": "伯利兹"
+    },
+    "CA": {
+      "sort": "JIA NA DA",
+      "value": "加拿大"
+    },
+    "CD": {
+      "sort": "GANG GUO MIN ZHU GONG HE GUO",
+      "value": "刚果（民主共和国）"
+    },
+    "CF": {
+      "sort": "ZHONG FEI GONG HE GUO",
+      "value": "中非共和国"
+    },
+    "CG": {
+      "sort": "GANG GUO GONG HE GUO",
+      "value": "刚果（共和国）"
+    },
+    "CH": {
+      "sort": "RUI SHI",
+      "value": "瑞士"
+    },
+    "CK": {
+      "sort": "KU KE QUN DAO",
+      "value": "库克群岛"
+    },
+    "CL": {
+      "sort": "ZHI LI",
+      "value": "智利"
+    },
+    "CM": {
+      "sort": "KA MAI LONG",
+      "value": "喀麦隆"
+    },
+    "CN": {
+      "currency_name": "人民币",
+      "sort": "ZHONG GUO",
+      "value": "中国"
+    },
+    "CO": {
+      "sort": "GE LUN BI YA",
+      "value": "哥伦比亚"
+    },
+    "CR": {
+      "sort": "GE SI DA LI JIA",
+      "value": "哥斯达黎加"
+    },
+    "CU": {
+      "sort": "GU BA",
+      "value": "古巴"
+    },
+    "CV": {
+      "sort": "KA FU WEI DE",
+      "value": "卡佛维德"
+    },
+    "CY": {
+      "sort": "SAI PU LU SI",
+      "value": "塞浦路斯"
+    },
+    "CZ": {
+      "sort": "JIE KE GUO HE GUO",
+      "value": "捷克共和国"
+    },
+    "DE": {
+      "sort": "DE GUO",
+      "value": "德国"
+    },
+    "DJ": {
+      "sort": "JI BU TI",
+      "value": "吉布提"
+    },
+    "DK": {
+      "sort": "DAN MAI",
+      "value": "丹麦"
+    },
+    "DM": {
+      "sort": "DUO MI NI KE",
+      "value": "多米尼克"
+    },
+    "DO": {
+      "sort": "DUO MING NI YA GONG HE GUO",
+      "value": "多明尼加共和国"
+    },
+    "DZ": {
+      "sort": "A ER JI LI YA",
+      "value": "阿尔及利亚"
+    },
+    "EC": {
+      "sort": "E GUA DUO ER",
+      "value": "厄瓜多尔"
+    },
+    "EE": {
+      "sort": "AI SHA NI YA",
+      "value": "爱沙尼亚"
+    },
+    "EG": {
+      "sort": "AI JI",
+      "value": "埃及"
+    },
+    "ES": {
+      "sort": "XI BAN YA",
+      "value": "西班牙"
+    },
+    "ET": {
+      "sort": "AI SAI E BI YA",
+      "value": "埃塞俄比亚"
+    },
+    "FI": {
+      "sort": "FEN LAN",
+      "value": "芬兰"
+    },
+    "FJ": {
+      "sort": "FEI JI",
+      "value": "斐济"
+    },
+    "FM": {
+      "sort": "MI KE LUO NI XI YA",
+      "value": "密克罗尼西亚"
+    },
+    "FO": {
+      "sort": "FA LUO QUN DAO",
+      "value": "法罗群岛"
+    },
+    "FR": {
+      "sort": "FA GUO",
+      "value": "法国"
+    },
+    "GA": {
+      "sort": "JIA PENG",
+      "value": "加蓬"
+    },
+    "GB": {
+      "sort": "YING GUO",
+      "value": "英国"
+    },
+    "GD": {
+      "sort": "GE LIN NA DA",
+      "value": "格林纳达"
+    },
+    "GE": {
+      "sort": "GE LU JI YA",
+      "value": "格鲁吉亚"
+    },
+    "GF": {
+      "sort": "FA SHU GUI YA NA",
+      "value": "法属圭亚那"
+    },
+    "GG": {
+      "sort": "GEN XI DAO",
+      "value": "根西岛"
+    },
+    "GH": {
+      "sort": "JIA NA",
+      "value": "加纳"
+    },
+    "GI": {
+      "sort": "ZHI BU LUO TUO",
+      "value": "直布罗陀"
+    },
+    "GL": {
+      "sort": "GE LING LAN",
+      "value": "格陵兰"
+    },
+    "GM": {
+      "sort": "GANG BI YA",
+      "value": "冈比亚"
+    },
+    "GN": {
+      "sort": "JI NEI YA",
+      "value": "几内亚"
+    },
+    "GP": {
+      "sort": "GUA DE LUO PU",
+      "value": "瓜德罗普"
+    },
+    "GQ": {
+      "sort": "CI DAO JI NEI YA",
+      "value": "赤道几内亚"
+    },
+    "GR": {
+      "sort": "XI LA",
+      "value": "希腊"
+    },
+    "GT": {
+      "sort": "WEI DI MA LA",
+      "value": "危地马拉"
+    },
+    "GU": {
+      "sort": "GUAN DAO",
+      "value": "关岛"
+    },
+    "GW": {
+      "sort": "JI NEI YA BI SAO",
+      "value": "几内亚比绍"
+    },
+    "GY": {
+      "sort": "GUI YA NA",
+      "value": "圭亚那"
+    },
+    "HK": {
+      "sort": "XIANG GANG",
+      "value": "香港"
+    },
+    "HN": {
+      "sort": "HONG DU LA SI",
+      "value": "洪都拉斯"
+    },
+    "HR": {
+      "sort": "KE LUO DI YA",
+      "value": "克罗地亚"
+    },
+    "HT": {
+      "sort": "HAI DI",
+      "value": "海地"
+    },
+    "HU": {
+      "sort": "XIONG YA LI",
+      "value": "匈牙利"
+    },
+    "ID": {
+      "sort": "YIN DU NI XI YA",
+      "value": "印度尼西亚"
+    },
+    "IE": {
+      "sort": "AI ER LAN GONG HE GUO",
+      "value": "爱尔兰共和国"
+    },
+    "IL": {
+      "sort": "YI SE LIE",
+      "value": "以色列"
+    },
+    "IM": {
+      "sort": "MA ER DAO",
+      "value": "马恩岛"
+    },
+    "IN": {
+      "sort": "YIN DU",
+      "value": "印度"
+    },
+    "IQ": {
+      "sort": "YI LA KE",
+      "value": "伊拉克"
+    },
+    "IR": {
+      "sort": "YI LANG",
+      "value": "伊朗"
+    },
+    "IS": {
+      "sort": "BING DAO",
+      "value": "冰岛"
+    },
+    "IT": {
+      "sort": "YI DA LI",
+      "value": "意大利"
+    },
+    "JE": {
+      "sort": "ZE XI",
+      "value": "泽西"
+    },
+    "JM": {
+      "sort": "YA MAI JIA",
+      "value": "牙买加"
+    },
+    "JO": {
+      "sort": "YUE DAN",
+      "value": "约旦"
+    },
+    "JP": {
+      "sort": "RI BEN",
+      "value": "日本"
+    },
+    "KE": {
+      "sort": "KEN NI YA",
+      "value": "肯尼亚"
+    },
+    "KG": {
+      "sort": "JI ER JI SI SI TAN",
+      "value": "吉尔吉斯斯坦"
+    },
+    "KH": {
+      "sort": "JIAN PU ZAI",
+      "value": "柬埔寨"
+    },
+    "KI": {
+      "sort": "JI LI BA SI",
+      "value": "基里巴斯"
+    },
+    "KM": {
+      "sort": "KE MO LUO",
+      "value": "科摩罗"
+    },
+    "KN": {
+      "sort": "SHENG JI CI HE NI WEI SI",
+      "value": "圣基茨和尼维斯"
+    },
+    "KP": {
+      "sort": "BEI HAN",
+      "value": "北韩"
+    },
+    "KR": {
+      "sort": "NAN HAN",
+      "value": "南韩"
+    },
+    "KW": {
+      "sort": "KE WEI TE",
+      "value": "科威特"
+    },
+    "KY": {
+      "sort": "KAI MAN QUN DAO",
+      "value": "开曼群岛"
+    },
+    "KZ": {
+      "sort": "HA SA KE SI TAN",
+      "value": "哈萨克斯坦"
+    },
+    "LA": {
+      "sort": "LAO WO",
+      "value": "老挝"
+    },
+    "LB": {
+      "sort": "LI BA NEN",
+      "value": "黎巴嫩"
+    },
+    "LC": {
+      "sort": "SHENG LU XI YA",
+      "value": "圣卢西亚"
+    },
+    "LI": {
+      "sort": "LIE ZHI DUN SHI DENG",
+      "value": "列支敦士登"
+    },
+    "LK": {
+      "sort": "SI LI LAN KA",
+      "value": "斯里兰卡"
+    },
+    "LR": {
+      "sort": "LI BI LI YA",
+      "value": "利比里亚"
+    },
+    "LS": {
+      "sort": "LAI SUO TUO",
+      "value": "莱索托"
+    },
+    "LT": {
+      "sort": "LI TAO WAN",
+      "value": "立陶宛"
+    },
+    "LU": {
+      "sort": "LU SEN BAO",
+      "value": "卢森堡"
+    },
+    "LV": {
+      "sort": "LA TUO WEI YA",
+      "value": "拉脱维亚"
+    },
+    "LY": {
+      "sort": "LI BI YA",
+      "value": "利比亚"
+    },
+    "MA": {
+      "sort": "MO LUO GE",
+      "value": "摩洛哥"
+    },
+    "MC": {
+      "sort": "MO NA GE",
+      "value": "摩纳哥"
+    },
+    "MD": {
+      "sort": "MO ER DUO WA",
+      "value": "摩尔多瓦"
+    },
+    "ME": {
+      "sort": "HEI SHAN",
+      "value": "黑山"
+    },
+    "MF": {
+      "sort": "SHENG MA DING FA SHU",
+      "value": "圣马丁（法属）"
+    },
+    "MG": {
+      "sort": "MA DA JIA SI JIA",
+      "value": "马达加斯加"
+    },
+    "MK": {
+      "sort": "MA QI DUN",
+      "value": "马其顿"
+    },
+    "ML": {
+      "sort": "MA LI",
+      "value": "马里"
+    },
+    "MM": {
+      "sort": "MIAN DIAN",
+      "value": "缅甸"
+    },
+    "MN": {
+      "sort": "MENG GU",
+      "value": "蒙古"
+    },
+    "MO": {
+      "sort": "AO MEN",
+      "value": "澳门"
+    },
+    "MP": {
+      "sort": "BEI MA LI YA NA QUN DAO",
+      "value": "北马里亚纳群岛"
+    },
+    "MQ": {
+      "sort": "MA TI NI KE",
+      "value": "马提尼克"
+    },
+    "MR": {
+      "sort": "MAO LI TA NI YA",
+      "value": "毛里塔尼亚"
+    },
+    "MS": {
+      "sort": "MENG TE SAI LA TE",
+      "value": "蒙特塞拉特"
+    },
+    "MT": {
+      "sort": "MA QI TA",
+      "value": "马耳他"
+    },
+    "MU": {
+      "sort": "MAO LI QIU SI",
+      "value": "毛里求斯"
+    },
+    "MV": {
+      "sort": "MA ER DAI FU",
+      "value": "马尔代夫"
+    },
+    "MW": {
+      "sort": "MA LA WEI",
+      "value": "马拉维"
+    },
+    "MX": {
+      "sort": "MO XI GE",
+      "value": "墨西哥"
+    },
+    "MY": {
+      "currency_name": "马来西亚币（林吉特）",
+      "sort": "MA LAI XI YA",
+      "value": "马来西亚"
+    },
+    "MZ": {
+      "sort": "MO SANG BI KE",
+      "value": "莫桑比克"
+    },
+    "NA": {
+      "sort": "NA NI BI YA",
+      "value": "纳米比亚"
+    },
+    "NC": {
+      "sort": "XIN KA LI DUO NI YA",
+      "value": "新喀里多尼亚"
+    },
+    "NE": {
+      "sort": "NI RI ER",
+      "value": "尼日尔"
+    },
+    "NF": {
+      "sort": "NUO FU KE DAO",
+      "value": "诺福克岛"
+    },
+    "NG": {
+      "sort": "NI RI LI YA",
+      "value": "尼日利亚"
+    },
+    "NI": {
+      "sort": "NI JIA LA GUA",
+      "value": "尼加拉瓜"
+    },
+    "NL": {
+      "sort": "HE LAN",
+      "value": "荷兰"
+    },
+    "NO": {
+      "sort": "NUO WEI",
+      "value": "挪威"
+    },
+    "NP": {
+      "sort": "NI BO ER",
+      "value": "尼泊尔"
+    },
+    "NR": {
+      "sort": "NAO LU",
+      "value": "瑙鲁"
+    },
+    "NZ": {
+      "sort": "XIN XI LAN",
+      "value": "新西兰"
+    },
+    "OM": {
+      "sort": "A MAN",
+      "value": "阿曼"
+    },
+    "PA": {
+      "sort": "BA NA MA",
+      "value": "巴拿马"
+    },
+    "PE": {
+      "sort": "MI LU",
+      "value": "秘鲁"
+    },
+    "PF": {
+      "sort": "FA SHU BO LI NI XI YA",
+      "value": "法属波利尼西亚"
+    },
+    "PG": {
+      "sort": "BA BU YA XIN JI NEI YA",
+      "value": "巴布亚新几内亚"
+    },
+    "PH": {
+      "sort": "FEI LV BIN",
+      "value": "菲律宾"
+    },
+    "PK": {
+      "sort": "BA JI SI TAN",
+      "value": "巴基斯坦"
+    },
+    "PL": {
+      "sort": "BO LAN",
+      "value": "波兰"
+    },
+    "PR": {
+      "sort": "BO DUO LI GE",
+      "value": "波多黎各"
+    },
+    "PS": {
+      "sort": "BA LE SI TAN GUO",
+      "value": "巴勒斯坦国"
+    },
+    "PT": {
+      "sort": "PU TAO YA",
+      "value": "葡萄牙"
+    },
+    "PW": {
+      "sort": "PA LAO",
+      "value": "帕劳"
+    },
+    "PY": {
+      "sort": "BA LA GUI",
+      "value": "巴拉圭"
+    },
+    "QA": {
+      "sort": "KA TA ER",
+      "value": "卡塔尔"
+    },
+    "RE": {
+      "sort": "LIU NI WANG",
+      "value": "留尼汪"
+    },
+    "RO": {
+      "sort": "LUO MA NI YA",
+      "value": "罗马尼亚"
+    },
+    "RS": {
+      "sort": "SAI ER WEI YA",
+      "value": "塞尔维亚"
+    },
+    "RU": {
+      "sort": "E LUO SI",
+      "value": "俄罗斯"
+    },
+    "RW": {
+      "sort": "LU WANG DA",
+      "value": "卢旺达"
+    },
+    "SA": {
+      "sort": "SHA TE A LA BO",
+      "value": "沙特阿拉伯"
+    },
+    "SC": {
+      "sort": "SAI SHE ER",
+      "value": "塞舌尔"
+    },
+    "SD": {
+      "sort": "SU DAN",
+      "value": "苏丹"
+    },
+    "SE": {
+      "sort": "RUI DIAN",
+      "value": "瑞典"
+    },
+    "SG": {
+      "currency_name": "新加坡元",
+      "sort": "XIN JIA PO",
+      "value": "新加坡"
+    },
+    "SH": {
+      "sort": "SHENG HE LE NA A SEN SONG HE TE LI SI TAN DA KU NI YA",
+      "value": "圣赫勒拿，阿森松和特里斯坦达库尼亚"
+    },
+    "SI": {
+      "sort": "SI LUO WEN NI YA",
+      "value": "斯洛文尼亚"
+    },
+    "SK": {
+      "sort": "SI LUO FA KE",
+      "value": "斯洛伐克"
+    },
+    "SL": {
+      "sort": "SAI LA LI ANG",
+      "value": "塞拉利昂"
+    },
+    "SM": {
+      "sort": "SHENG MA LI NUO GONG HE GUO",
+      "value": "圣马力诺（共和国）"
+    },
+    "SN": {
+      "sort": "SAI NEI JIA ER",
+      "value": "塞内加尔"
+    },
+    "SR": {
+      "sort": "SU LI NAN",
+      "value": "苏里南"
+    },
+    "SV": {
+      "sort": "SA ER WA DUO",
+      "value": "萨尔瓦多"
+    },
+    "SY": {
+      "sort": "XU LI YA",
+      "value": "叙利亚"
+    },
+    "SZ": {
+      "sort": "SI WEI SHI LAN",
+      "value": "斯威士兰"
+    },
+    "TC": {
+      "sort": "TE KE SI HE KAI KE SI QUN DAO",
+      "value": "特克斯和凯科斯群岛"
+    },
+    "TD": {
+      "sort": "ZA DE",
+      "value": "乍得"
+    },
+    "TG": {
+      "sort": "DUO GE",
+      "value": "多哥"
+    },
+    "TH": {
+      "sort": "TAI GUO",
+      "value": "泰国"
+    },
+    "TJ": {
+      "sort": "TA JI KE SI TAN",
+      "value": "塔吉克斯坦"
+    },
+    "TL": {
+      "sort": "DONG DI WEN",
+      "value": "东帝汶"
+    },
+    "TM": {
+      "sort": "TU KU MAN SI TAN",
+      "value": "土库曼斯坦"
+    },
+    "TN": {
+      "sort": "TU NI SI",
+      "value": "突尼斯"
+    },
+    "TO": {
+      "sort": "TANG JIA",
+      "value": "汤加"
+    },
+    "TR": {
+      "sort": "TU ER QI",
+      "value": "土耳其"
+    },
+    "TT": {
+      "sort": "TE LI NI DA HE DUO BA GE",
+      "value": "特立尼达和多巴哥"
+    },
+    "TW": {
+      "currency_name": "新台币",
+      "sort": "TAI WAN",
+      "value": "台湾"
+    },
+    "TZ": {
+      "sort": "TAN SANG NI YA",
+      "value": "坦桑尼亚"
+    },
+    "UA": {
+      "sort": "WU KE LAN",
+      "value": "乌克兰"
+    },
+    "UG": {
+      "sort": "WU GAN DA",
+      "value": "乌干达"
+    },
+    "US": {
+      "currency_name": "美元",
+      "sort": "MEI GUO",
+      "value": "美国"
+    },
+    "UY": {
+      "sort": "WU LA GUI",
+      "value": "乌拉圭"
+    },
+    "UZ": {
+      "sort": "WU ZI BIE KE SI TAN",
+      "value": "乌兹别克斯坦"
+    },
+    "VC": {
+      "sort": "SHENG WEN SEN TE HE GE LIN NA DING SI",
+      "value": "圣文森特和格林纳丁斯"
+    },
+    "VE": {
+      "sort": "WEI NEI RUI LA",
+      "value": "委内瑞拉"
+    },
+    "VG": {
+      "sort": "YING SHU WEI ER JING QUN DAO",
+      "value": "英属维尔京群岛"
+    },
+    "VI": {
+      "sort": "WEI ER JING QUN DAO MEI GUO",
+      "value": "维尔京群岛（美国）"
+    },
+    "VN": {
+      "sort": "YUE NAN",
+      "value": "越南"
+    },
+    "VU": {
+      "sort": "WA NU A TU",
+      "value": "瓦努阿图"
+    },
+    "WS": {
+      "sort": "SA MO YA",
+      "value": "萨摩亚"
+    },
+    "YE": {
+      "sort": "YE MEN GONG HE GUO",
+      "value": "也门共和国"
+    },
+    "YT": {
+      "sort": "MA YUE TE",
+      "value": "马约特"
+    },
+    "ZA": {
+      "sort": "NAN FEI",
+      "value": "南非"
+    },
+    "ZM": {
+      "sort": "ZAN BI YA",
+      "value": "赞比亚"
+    },
+    "ZW": {
+      "sort": "JIN BA BU WEI",
+      "value": "津巴布韦"
+    }
+  },
+  "cpu_available_tip": "現在の残高では抵当できるNETは{}のみです。",
+  "create_again": "再生成する",
+  "create_eos_account": "招待状コード登録",
+  "create_eos_account_tip": "私はすでに次のことを知っています：",
+  "create_eos_account_tip2": "·  アカウント名を作成するために必要なEOSは、MEET.ONEによって支払われます。",
+  "create_eos_account_tip3": "·  アカウント所有権/使用権は、ユーザーが所有しています。アカウントを作成した後のすべての操作は、MEET.ONEとは関係ありません。",
+  "create_eos_wallet": "EOSウォレットを生成する",
+  "create_wallet": "ウォレットを作成する",
+  "current_password": "現在のパスワード",
+  "current_password_error": "パスワードエラー",
+  "current_version": "現在のバージョン {}",
+  "default_share_content": "あなたにリンクをシェアしました，見でみ~",
+  "delegate_eos_stake": "EOSを抵当にする",
+  "delegate_eos_unstake": "EOSを償還する",
+  "delegate_note": "注：",
+  "delegate_note_1": "- EOSネットワーク上のいかなるトランザクションも、CPUとNETを占有する。",
+  "delegate_note_2": "- 占有された資源は一定時間後に返納する。",
+  "delegate_note_3": "- あなたはいつまでも資源を償還することができますが、でも3日間の待ち期間があります。",
+  "delegate_staked_eos": "抵当された",
+  "delegated_balance": "抵当されたリソース",
+  "delete": "削除する",
+  "delete_wallet": "ウォレットを削除する",
+  "discovery_BP": "EEOSキャンペーンノード",
+  "discovery_BP_title": "EOSキャンペーンノード",
+  "discovery_REGISTER": "EOS\nアカウント名の登録",
+  "discovery_REGISTRATION": "EOS\nマッピング検証",
+  "discovery_REGISTRATION_title": "EOS マッピング検証",
+  "discovery_candy": "EOS\nキャンディービュー",
+  "discovery_candy_title": "EOS キャンディービュー",
+  "do_not_take_screenshots": "スクリーンショットを撮らないでください",
+  "do_not_use_net": "ネットワーク伝送を使用しないでください",
+  "do_not_use_net_info": "Lineなどを使用してコンピュータに送信するなど、秘密鍵を転送するためにネットワークツールを使用しないでください。 ハッカーによって獲得されると、それは回復不能な資産損失を引き起こすでしょう。",
+  "email": "メール",
+  "email_address": "メールアドレス",
+  "email_format_error": "メールアドレスを入力してください",
+  "empty_data": "データなし",
+  "eos_account": "友達から登録",
+  "eos_account_has_exist": "このアカウントは既に登録されています",
+  "eos_account_name": "アカウント名",
+  "eos_account_name_can_not_be_null": "アカウント名は空にできません",
+  "eos_account_name_tip": "英小文字a-zと12345の12桁のアカウント名がサポートされています",
+  "eos_account_register_warning": "EOSウォレットに切り替た後に使用できます",
+  "eos_entrance": "EOSエコポータル",
+  "eos_key_save_tip_2": "公開鍵と秘密鍵は安全な場所に保管してください。",
+  "eos_key_save_tip_3": ".安全な場所にコピーまたは印刷することをお勧めします。",
+  "eos_key_save_tip_4": ".Lineなどを使用してコンピュータに送信するなど、秘密鍵を送信するためにネットワークを使用することはお勧めしません。",
+  "eos_mapping_open_source": "EOS マッピング",
+  "eos_mapping_submit_contract": "コントラクトを提出する",
+  "eos_mapping_submit_title": "マッピングコントラクトを提出する",
+  "eos_mapping_success_title": "EOS マッピング",
+  "eos_mapping_tip_title": "EOS マッピング",
+  "eos_mapping_title": "EOS マッピング",
+  "eos_mapping_verify": "マッピングを検証する",
+  "eos_mapping_verify_title": "マッピングを検証する",
+  "eos_mapping_wallet": "EOS マッピングツール",
+  "eos_node_customlabel": "カスタムノード",
+  "eos_node_location": "ノード",
+  "eos_node_ping_neterror": "ネットワークエラー",
+  "eos_node_ping_timeout": "タイムアウト",
+  "eos_node_selection": "ノードの選択",
+  "eos_node_selectlabel": "オプションのノード",
+  "eos_node_server_placeholder": "例: https://mainnet.meet.one",
+  "eos_node_chainid_placeholder": "デフォルトではメインネットワークのChain ID",
+  "eos_node_server_save": "保存して有効にする",
+  "eos_node_server_url": "ノードアドレス",
+  "eos_node_speed": "接続速度",
+  "eos_node_speed_tip": "* 接続速度の値が小さいほど、アクセス速度が速くなります。",
+  "eos_not_mapping_tip": "あなたのEOSはマッピングされていません。",
+  "eos_only": "この機能は、EOSウォレットでのみ使用できます。",
+  "eos_order_info": "注文情報",
+  "eos_private_key": "秘密鍵 Private Key",
+  "eos_private_key_tip_1": "誰かがあなたの秘密鍵を取得した場合、あなたの資産を直接取得します！ 秘密鍵をコピーして安全な場所に保管してください。",
+  "eos_public_key": "公開鍵 Public Key",
+  "eos_public_key_1": "EOS ウォレットの公開鍵(Public key)",
+  "eos_public_key_for_return": "返されたEOS公開鍵：",
+  "eos_receiver_address": "コレクションアカウント",
+  "eos_receiver_wallet_address": "コレクションアカウント",
+  "eos_recentTrans_memotip": "注：アカウントとメモは最後の転送操作記録に基づいています。情報が正しいことを確認し、財産の損害を避けてください。",
+  "eos_recentTrans_recent": "最近の振替",
+  "eos_recentTrans_scan": "スキャンコード振替",
+  "eos_recentTrans_transfer": "アカウント振替",
+  "eos_remark": "備考（メモ）",
+  "eos_sender_address": "支払いアカウント",
+  "eos_transfer_result_commitTrans": "トランザクションを提出する",
+  "eos_transfer_result_success": "振替が成功しました!",
+  "eos_transfer_result_title": "振替結果",
+  "eos_wallet_account": "EOS アカウント",
+  "eos_wallet_mapping_description": "\"マッピング\"は、EthereumのEOSコントラクトにEOSウォレットの公開鍵を登録することです。 したがって、EOSウォレットの公開鍵である必要があります。 MEET.ONEは公式オープンソースのEOSアドレスジェネレータを使用します。",
+  "eos_wallet_name_must_be_12": "アカウント名は12桁でなければなりません",
+  "error": "不明なエラーが発生しました",
+  "error_3010000": "異常なチェーンタイプ (3010000)",
+  "error_3010001": "無効なアカウント名 (3010001)",
+  "error_3010002": "無効な公開鍵 (3010002)",
+  "error_3010003": "無効な秘密鍵 (3010003)",
+  "error_3010004": "権限が無効です (3010004)",
+  "error_3010005": "無効な操作 (3010005)",
+  "error_3010006": "無効なトランザクション (3010006)",
+  "error_3010007": "無効なABI (3010007)",
+  "error_3010008": "ABIが見つかりません (3010008)",
+  "error_3010009": "無効なブロック番号 (3010009)",
+  "error_3010010": "無効なトランザクション番号 (3010010)",
+  "error_3010011": "トランザクションパッケージが無効です (3010011)",
+  "error_3010012": "無効なアセット (3010012)",
+  "error_3020000": "データ分岐が発生しました (3020000)",
+  "error_3020001": "ブロックに接続できません(3020001)",
+  "error_3030000": "ブロックが認識されない (3030000)",
+  "error_3030001": "ブロック内のトランザクションがサブミッションと矛盾する (3030001)",
+  "error_3030002": "同時に生成されたブロックに競合がある (3030002)",
+  "error_3030003": "shard locks in block are incorrect or mal-formed (3030003)",
+  "error_3030004": "block exhausted allowed resources (3030004)",
+  "error_3030005": "ブロックが古すぎてアップロードできません (3030005)",
+  "error_3040000": "異常なトランザクション (3040000)",
+  "error_3040001": "解凍トランザクションエラー (3040001)",
+  "error_3040002": "トランザクションには少なくとも1つの操作が含まれています (3040002)",
+  "error_3040003": "トランザクションは承認されていません (3040003)",
+  "error_3040004": "context-free action should have no required authority (3040004)",
+  "error_3040005": "トランザクション期限切れ (3040005)",
+  "error_3040006": "トランザクションの有効期限が長すぎます(3040006)",
+  "error_3040007": "無効なブロックを指す (3040007)",
+  "error_3040008": "重複なトランザクション (3040008)",
+  "error_3040009": "遅延トランザクションを繰り返した (3040009)",
+  "error_3050000": "操作が失敗しました (3050000)",
+  "error_3050001": "アカウント名は既に存在します (3050001)",
+  "error_3050002": "無効な操作パラメータ (3050002)",
+  "error_3050003": "操作が失敗しました，コントラクトエラー (3050003)",
+  "error_3050004": "操作が失敗しました，コントラクトエラー(3050004)",
+  "error_3060000": "ノードデータベース異常 (3060000)",
+  "error_3060001": "権限クエリの異常 (3060001)",
+  "error_3060002": "アカウントクエリが異常です。 (3060002)",
+  "error_3060003": "コントラクトテーブルクエリ異常 (3060003)",
+  "error_3060004": "コントラクト照会異常 (3060004)",
+  "error_3070000": "WASM Exception (3070000)",
+  "error_3070001": "error in WASM page memory (3070001)",
+  "error_3070002": "Runtime Error Processing WASM (3070002)",
+  "error_3070003": "Serialization Error Processing WASM (3070003)",
+  "error_3070004": "memcpy with overlapping memory (3070004)",
+  "error_3080000": "異常なリソースの枯渇 (3080000)",
+  "error_3080001": "アカウントの残りのRAMリソースが不足しています。十分なRAMを購入してください。 (3080001)",
+  "error_3080002": "この操作は、NETリソースを制限を超えて消費します。試してみるには少々の金額を設定してください。(3080002)",
+  "error_3080003": "この操作はマージンより多くのNETリソースを消費しますので、十分なNETリソースを抵当権にしてください (3080003)",
+  "error_3080004": "この操作は、制限よりも多くのCPUリソースを消費します。少量の試行を設定するか、または十分なCPUリソースを借りてください (3080004)",
+  "error_3080005": "この操作はマージンより多くのCPUリソースを消費しますので、十分なCPUリソースを抵当権にしてください (3080005)",
+  "error_3080006": "トランザクションタイムアウト (3080006)",
+  "error_3081001": "CPUリソースの制限によるトランザクションタイムアウト (3081001)",
+  "error_3090000": "確認に失敗しました (3090000)",
+  "error_3090001": "重複した署名が含まれています (3090001)",
+  "error_3090002": "関連性のない署名が含まれています (3090002)",
+  "error_3090003": "アカウント権限の確認が異常です。公開鍵と秘密鍵が正しいかどうか確認してください。 (3090003)",
+  "error_3090004": "必要な権限の不足 (3090004)",
+  "error_3090005": "必須でないアクセス許可が含まれています (3090005)",
+  "error_3090006": "insufficient delay (3090006)",
+  "error_3100000": "その他の (3100000)",
+  "error_3100001": "矛盾したノードの状態 (3100001)",
+  "error_3100002": "不明なブロック (3100002)",
+  "error_3100003": "未知のトランザクション (3100003)",
+  "error_3100004": "corrupted reversible block database was fixed (3100004)",
+  "error_3100005": "extracted genesis state from blocks.log (3100005)",
+  "error_3100006": "subjective exception thrown during block production (3100006)",
+  "error_3110000": "ノードに利用可能なプラグインがありません (3110000)",
+  "error_3110001": "ノード欠落リンクAPIプラグイン (3110001)",
+  "error_3110002": "ノード欠損ウォレットAPIプラグイン (3110002)",
+  "error_3110003": "ノードに履歴APIプラグインがありません件 (3110003)",
+  "error_3110004": "ノードにNet APIプラグインがありません (3110004)",
+  "error_3120000": "wallet exception (3120000)",
+  "error_3120001": "Wallet already exists (3120001)",
+  "error_3120002": "Nonexistent wallet (3120002)",
+  "error_3120003": "Locked wallet (3120003)",
+  "error_3120004": "Missing public key (3120004)",
+  "error_3120005": "Invalid wallet password (3120005)",
+  "error_3120006": "No available wallet (3120006)",
+  "error_3120007": "Already unlocked (3120007)",
+  "error_3130000": "actor or contract whitelist/blacklist exception (3130000)",
+  "error_3130001": "取引の承認はホワイトリストにありません (3130001)",
+  "error_3130002": "取引の承認はブラックリストに載っています (3130002)",
+  "error_3130003": "スマートコントラクトはホワイトリストに載っていません (3130003)",
+  "error_3130004": "スマートコントラクトはブラックリストに載っています (3130004)",
+  "error_3130005": "ブラックリストでの操作 (3130005)",
+  "error_3130006": "承認の公開鍵はブラックリストにあります (3130006)",
+  "error_parse": "JSON解析例外が発生しました。ノードを切り替えてもう一度お試しください",
+  "eth_address_for_mapping": "マッピング用のETHウォレット：",
+  "eth_only": "この機能はETH ウォレットでのみ利用可能です",
+  "eth_private_key_tip_1": "誰かがあなたの秘密鍵を取得した場合、あなたの資産を直接取得します！ 秘密鍵をコピーして安全な場所に保管してください。",
+  "eth_wallet": "ETHウォレット",
+  "eth_wallet_add_title": "ウォレットを追加",
+  "eth_wallet_address": "ETHウォレットアドレス",
+  "eth_wallet_keystore_can_not_be_null": "ウォレットのキーストアを空にすることはできません",
+  "eth_wallet_name_can_not_be_null": "ウォレット名は空欄にできません",
+  "eth_wallet_password_can_not_be_null": "パスワードを空にすることはできません",
+  "eth_wallet_private_key_can_not_be_null": "ウォレットの秘密鍵は空ではありません",
+  "eth_wallet_seed_phrase_can_not_be_null": "ウォレットニーモニックは空にできません",
+  "export_keystore": "キーストアのエクスポート",
+  "export_private_key": "秘密鍵のエクスポート",
+  "failed_to_get_permission": "許可を得ることができませんでした",
+  "failed_to_save_photo": "画像を保存できませんでした",
+  "failed_to_transfer": "振替に失敗しました",
+  "feedback": "フィードバック",
+  "find_password": "パスワードを取得する",
+  "finish_operation": "完了",
+  "forgot_password": "パスワードを忘れた",
+  "forgot_password_hint": "登録した携帯電話番号でパスワードを取得できます。",
+  "generat_pk": "新しい公開鍵を生成する",
+  "github_open_source_address": "Githubオープンソースアドレス",
+  "good_saved": "保存された",
+  "hasImported": "輸入された",
+  "has_selected_node": "選択されたノード",
+  "have_new_version": "新しいバージョン{}",
+  "help_other": "友人がアカウントにサインアップできるようにする",
+  "how_to_get_invite": "招待コードを取得するにはどうすればよいですか？",
+  "how_to_get_invite_address": "https://meet.one/voucher_zh.html",
+  "how_to_get_invite_title": "招待コード取得方法",
+  "how_to_get_regist_address": "https://meet.one/account_zh.html",
+  "how_to_regist_sub_title": "登録チュートリアル",
+  "how_to_regist_title": "読んでください：アカウント登録のチュートリアル",
+  "i_know": "私は知っている",
+  "im_new": "私は新しいユーザーです",
+  "im_old": "私は古いユーザーです",
+  "import": "インポート",
+  "import_eos_wallet": "ウォレットをインポートする",
+  "import_eth_wallet": "ETHウォレットをインポートする",
+  "import_other_eth_wallet": "他のETHウォレットをインポートする",
+  "import_success": "インポートに成功しました",
+  "import_wallet": "ウォレットをインポートする",
+  "import_wallet_by_keystore_title": "Keystore",
+  "import_wallet_by_private_key": "秘密鍵",
+  "import_wallet_by_seed_phrase": "ニーモニック",
+  "import_wallet_title": "ETHウォレットをインポートする",
+  "invalid_eos_account": "EOSアカウント名のみを認識する",
+  "invalid_eth_wallet_address": "ETHウォレットのアドレスのみを識別できます",
+  "invalid_eth_wallet_private_key": "ウォレットの秘密鍵形式のエラー",
+  "invalid_qr_code": "認識されないQRコード",
+  "invalid_seed_phrase": "ニーモニックの形式が間違っています",
+  "is_newest_version": "すでに最新バージョン",
+  "keystore_input_placeholder": "EthereumウォレットをここからコピーしてKeystoreファイルのコンテンツから直接ペーストします。",
+  "keystore_password": "Keystore パスワード",
+  "language": {
+    "chinese": "中文",
+    "english": "English",
+    "korean": "한국어",
+    "japanese": "日本語"
+  },
+  "language_first": "第一言語”{}” ?",
+  "language_second": "第二言語 ”{}” ?",
+  "language_setting_title": "言語設定",
+  "link_to_mainnet": "リンクメインネットワーク",
+  "loading": "読み込み中",
+  "login": "ログイン",
+  "login_failed": "ログインに失敗しました。後でやり直してください",
+  "login_with_exist_account": "既存のアカウントにサインインする",
+  "logout": "ログアウト",
+  "main_page_menu": {
+    "receive_money": "受取をする",
+    "scan": "スキャン",
+    "transaction_history": "トランザクション記録",
+    "transfer": "振替"
+  },
+  "main_tab": {
+    "discovery": "発見する",
+    "meet": "資産",
+    "mine": "私の",
+    "news": "情報"
+  },
+  "mainpage_btn1_subtitle": "秘密鍵でウォレットを導入する",
+  "mainpage_btn1_title": "ウォレットをインポートする",
+  "mainpage_btn2_subtitle": "私は交換所でEOSがあります、スマートコントラクトでアカウントを登録する",
+  "mainpage_btn2_title": "コントラクト自己登録",
+  "mainpage_btn3_subtitle": "私は秘密鍵を生成し、私の友人がアカウントを作成するのを助ける必要があります。",
+  "mainpage_btn3_title": "友達登録",
+  "mainpage_btn4_subtitle": "アカウントを直接作成するための招待コードがあります。",
+  "mainpage_btn4_title": "招待状コード登録",
+  "mainpage_title_1": "私はEOSアカウントを持っています",
+  "mainpage_title_2": "私はEOSアカウントを持っていません",
+  "make_sure_again": "再確認",
+  "make_sure_again_for_eos_private_key": "MEET.ONEはEOSウォレットの秘密鍵をアップロードしません。紛失した場合は回収できませんので、安全に保管してください。",
+  "manager_wallet": "ウォレット管理",
+  "mapping_contract": "マッピングコントラクト",
+  "mapping_not": "マッピングされていない",
+  "mapping_now": "すぐにマッピングする",
+  "mapping_status": "マッピング状態",
+  "mapping_success": "マッピングされた",
+  "max_buy": "最大購入額",
+  "max_change": "最大交換",
+  "meet_term_title_1": "サービスとプライバシーポリシー",
+  "meet_term_title_2": "私は読んで同意した{}",
+  "memo_tip_1": "以下の情報をトランザクションノートにコピーしてください（Memo）",
+  "memo_tip_2": "Smart ContractsはMemoを使用してアカウントに登録します",
+  "mine": "私の",
+  "miner_fee": "マイナー料金:",
+  "mobile_or_email": "携帯/メール",
+  "modify_success": "変更に成功しました",
+  "multi_language": "多言語",
+  "my_eth_wallet": "私のETHアドレス",
+  "need_help": "EOSアカウントを登録する必要があります",
+  "net_available_tip": "現在の残高では抵当できるCPUは{}のみです。",
+  "new_account_attention": "注：登録されたアカウント名は、公開鍵アドレスを提供するだけでよい。",
+  "new_account_attention2": "以下の内容を誰にも開示しないでください",
+  "new_account_private_key": "秘密鍵 Private Key",
+  "new_account_public_key": "公開鍵 Public Key",
+  "newest": "最新{}",
+  "news_title": "情報",
+  "news_type_title": {
+    "meet_self": "ニュースレター",
+    "twitter": "ツイッター",
+    "wechat": "公式アカウント",
+    "weibo": "weibo"
+  },
+  "next_step": "次のステップ",
+  "no_binding": "関連していない",
+  "no_info": "まだ情報がありません",
+  "no_internet_connect": "インターネット接続なし",
+  "no_proxy": "プロキシを閉じる",
+  "node_contact_method": "連絡先情報",
+  "node_list_topright_text": "代理投票",
+  "node_selected": "選択された",
+  "node_server_desc": "サーバー構成",
+  "node_server_location": "ノードの場所",
+  "node_server_title": "サービス構成",
+  "node_team_desc": "チーム紹介",
+  "not_login_account": "ログインしていません",
+  "not_set": "設定されていない",
+  "notice": "リマインダ",
+  "notification_page_title": "お知らせ",
+  "official_website": "公式サイト",
+  "offline_save": "オフラインで保存",
+  "offline_save_info": "秘密鍵をコピーまたは印刷して安全な場所に保管することをお勧めします。",
+  "ok": "決定する",
+  "old_account_errorMsg0": "公開鍵フォーマットエラー",
+  "old_account_key_info": "所有者公開鍵はユーザ公開鍵と同じです",
+  "old_account_placeholder": "新しいアカウントの所有者の公開鍵を入力してください",
+  "operate_failed": "操作が失敗しました。後でやり直してください",
+  "order_confirm": "トランザクションを確認する",
+  "password": "パスワード",
+  "password2": "パスワードを繰り返します",
+  "password_format_hint": "パスワードは8〜16文字で、文字、数字、記号をサポートしています。スペースはサポートされていません。",
+  "password_is_not_correct": "間違ったパスワード",
+  "password_is_not_same": "パスワードは異なります",
+  "password_is_not_the_same": "パスワードは異なります",
+  "password_is_tooshort": "少なくとも8桁のパスワードを入力してください",
+  "password_modify_success": "変更が成功しました。もう一度ログインしてください。",
+  "password_old": "古いパスワード",
+  "password_shot_length_tip": "最小パスワードの長さは8",
+  "password_tip_hint": "パスワードのプロンプト情報（入力されていない可能性があります）",
+  "password_verify": "パスワードを確認する",
+  "phone_number": "電話番号",
+  "please_agree_meet_term": "サービスおよびプライバシーポリシーに同意してください",
+  "please_input_amount": "金額を入力してください",
+  "please_input_correct_account": "アカウントのフォーマットが正しくありません",
+  "please_input_private_key": "平文の秘密鍵を入力してください。",
+  "please_input_private_key_1": "秘密鍵を入力してください",
+  "please_input_receiver_account": "受信者のアカウントを入力してください",
+  "please_input_receiver_address": "受信者のアドレスを入力してください",
+  "please_input_seed_phrase": "スペースで区切ってニーモニックを入力してください。",
+  "please_input_verify_password": "確認用のパスワードを入力してください",
+  "please_input_wallet_password": "ウォレットのパスワードを入力してください",
+  "please_select_network": "ネットワークを選択してください",
+  "please_set_password_hint": "パスワードのヒントを設定する",
+  "please_set_password_tip": "パスワードを設定してウォレットを保護する",
+  "please_set_voucher_tip": "招待コードを入力してください",
+  "please_set_wallet_name": "ウォレット名を設定してください",
+  "pls_input_account": "アカウント番号を入力してください",
+  "pls_input_image_verify_code": "グラフィック認証コードを入力してください",
+  "pls_input_phone": "電話番号を入力してください",
+  "pls_input_pwd": "パスワードを入力してください",
+  "pls_input_token": "確認コードを入力してください",
+  "press_to_refund": "手動償還をクリックする",
+  "privacy": "プライバシーポリシー",
+  "profile": "個人情報",
+  "progress_link": "進行中のリンク",
+  "public_key": "公開鍵",
+  "push_setting_title": "メッセージプッシュ",
+  "qr_code_title": "コレクションコード",
+  "qr_scan_title": "スキャンする",
+  "qr_share_tip_1": "MEET.ONEをダウンロードする",
+  "qr_share_tip_2": "EOSウォレットだけではない",
+  "quickly": "速い",
+  "ram_balance": "バランス：",
+  "ram_buy": "RAMを購入する",
+  "ram_buy_sell": "RAMを購入/販売する",
+  "ram_count": "数量",
+  "ram_done": "取引",
+  "ram_estimate": "見積もり",
+  "ram_price": "金額",
+  "ram_sell": "RAMを売る",
+  "ram_tips1": "RAMの量は、メインネットワークの最近の取引の単価によって推定され、実際の数量は実際の取引結果の対象となります。",
+  "ram_tips2": "現在のRAM見積もり価格：",
+  "ram_tips3": "アカウントで使用されるRAMは販売用ではありません。",
+  "ram_tips4": "トランザクションの成功を確実にするために、少なくとも1KBのRAMを確保してください。 販売時にメモリが不足している場合は、取引料金をカバーするだけの十分な残高を確認し、CPU / NETが十分であることを確認してください。",
+  "ram_usage": "アカウントが使用されました：",
+  "receive": "受取をする",
+  "receiver_address": "コレクションアドレス",
+  "receiver_wallet_address": "コレクションウォレットのアドレス",
+  "recommend_meet": "MEET.ONEを推薦する",
+  "recommend_to_friends": "MEET.ONEを友達に推薦する",
+  "register": "登録",
+  "register_account": "アカウントを登録する",
+  "register_account_error": "登録に失敗しました",
+  "register_account_info": "アカウント名は12桁で、a-z、1-5のみを含めることができます。",
+  "register_meetone_account_info": "アカウント名は12桁で、最後の2桁は.mで、最初の10桁にはa-z、1-5しか含めることができません。",
+  "register_account_successfully": "成功に登録しました",
+  "register_account_title": "アカウントを登録する",
+  "register_by_contract": "コントラクトを自己登録",
+  "register_failed": "登録に失敗しました。後でやり直してください",
+  "register_hint": "MEET.ONEは現在、中国本土の携帯電話番号の登録にのみサポートされています。",
+  "register_mean_agree": "サインアップして同意する",
+  "register_new_account": "新しいアカウントを登録する",
+  "registration_complete": "登録完了",
+  "registration_complete_1": "合計",
+  "registration_complete_2": "つのアカウントが正常に登録されました",
+  "remark": "備考",
+  "repeat_password": "パスワードを繰り返します",
+  "repeat_password_error": "同じパスワードを繰り返し入力してください",
+  "request_failed": "リクエストに失敗しました。後でやり直してください",
+  "request_permission": "権限を申請する",
+  "request_permission_album": "あなたのアルバムに画像を保存したい",
+  "resend": "再送信する",
+  "resend_count_down": "再送信({})",
+  "resource": "リソース",
+  "risk_alert": "リスクの警告",
+  "risk_alert_android": "デバイスがROOTの場合は、このデバイスでウォレットをインポートまたは作成しないでください。重大なセキュリティリスクが発生します。",
+  "risk_alert_ios": "デバイスがrootされている場合は、このデバイスでウォレットをインポートまたは作成しないでください。重大なセキュリティリスクがあります。",
+  "save_keystore_tip_1": "Keystoreファイルをコピーして安全なオフラインの場所に貼り付けて保存してください。 電子メール、メモ帳、ウェブ、チャットなどに保存しないでください。これは非常に危険です。",
+  "save_keystore_tip_2": "ネットワーク伝送を使用しない",
+  "save_keystore_tip_3": "ネットワークツールを使用してキーストアファイルを転送しないでください。ハッキングされると、修復不可能な資産の損傷が発生します。",
+  "save_keystore_tip_4": "パスワードを保険箱に保存保存する",
+  "save_keystore_tip_5": "オンラインで保存する場合は、セキュリティレベルの高い1Passwordなどのパスワード保存ソフトウェアを使用してキーストアを保存することをお勧めします。",
+  "save_offline": "オフラインで保存",
+  "scan": "スキャン",
+  "scan_download_app": "QRコードをスキャンしてアプリをダウンロードする",
+  "scan_qr_to_pay": "QRコードをスキャンして私に支払う",
+  "search": "検索",
+  "select": "選択する",
+  "select_account": "アカウントを選択",
+  "select_account_tip": "インポートするアカウントを選択してください",
+  "select_node_net": "ノードを選択",
+  "select_qr_code": "QRコードを選択する",
+  "self_register_tip1": "スマートコントラクトアカウントに資金を移すことで",
+  "self_register_tip2": "サードパーティなしでEOSアカウントセルフサービスを作成する",
+  "sender_address": "送信者アドレス",
+  "sent_verify_code_hint": "電話番号{}に4桁の確認コードを送信しましたので、下に記入してください。",
+  "set_account_name": "アカウント名を設定する",
+  "set_account_name_placeholder": "12桁のアカウント名を入力してください",
+  "set_eos_account_name": "アカウント名を設定してください",
+  "set_new_password": "新しいパスワードを設定する",
+  "set_password": "パスワードを設定する",
+  "set_password_hint": "アカウントのセキュリティを確保するには、英数字と記号をサポートする8〜16桁のパスワードを設定してください。",
+  "share": "シェア",
+  "share_bull": "利がよい情報をシェア",
+  "share_read_more": "MEET.ONEをダウンロードして全文を読む",
+  "share_title": "シェア",
+  "share_to": {
+    "qq": "QQ",
+    "wechat": "WeChat",
+    "wechat_moment": "友達のサークル",
+    "weibo": "ウェイボ"
+  },
+  "slow": "遅い",
+  "sort_btn_text": "推奨ソート",
+  "sort_by_recommend": "推奨ソート",
+  "sort_by_voterate": "投票率",
+  "start_create": "生成を開始する",
+  "start_register_account": "アカウントの登録を開始する",
+  "submit": "提出する",
+  "success_to_change_wallet_password": "パスワードを変更しました",
+  "success_to_delete_wallet": "ウォレットを削除しました",
+  "success_to_save_photo": "画像を正常に保存しました",
+  "success_to_submit_order": "注文を正常に提出しました",
+  "success_to_transfer": "取引を成功しました",
+  "system_settings": "システム設定",
+  "the_main_net_is_not_start": "メインネットワークはまだオンラインになっていません。",
+  "thirty_node_tip": "30ノードを選択しました",
+  "this_is_my_eos_wallet": "これは私のEOSアカウントです",
+  "this_is_my_eth_wallet": "これは私のETHアドレスです",
+  "token_detail_all": "全て",
+  "token_detail_balance": "残高",
+  "token_detail_in": "転入する",
+  "token_detail_noMoreData": "データはこれ以上ありません",
+  "token_detail_out": "転出する",
+  "token_detail_title": "トークンの詳細",
+  "token_detail_tokenDetail": "プロジェクトの詳細",
+  "token_info": "プロジェクト情報",
+  "token_info_address": "コントラクトアドレス",
+  "token_info_homepage": "公式サイト",
+  "token_info_name": "プロジェクト名",
+  "token_info_publish": "リリース情報",
+  "token_info_publish_market": "市場価値の合計",
+  "token_info_publish_time": "発行時間",
+  "token_info_publish_total": "総発行量",
+  "token_list_title": "Tokens",
+  "token_update_fail": "更新 {} 失败",
+  "total_balance": "総資産 CNY",
+  "transaction": "トランザクション",
+  "transaction_amount": "トランザクション金額",
+  "transaction_amount_1": "残高 {} {}",
+  "transaction_detail": "トランザクションの詳細",
+  "transaction_hash": "トランザクション番号",
+  "transaction_history": "トランザクション記録",
+  "transaction_list_title": "トランザクションリスト",
+  "transaction_time": "ランザクション時間",
+  "transaction_tip": "振替が成功して最低限度に達した後、注文は確認します",
+  "transfer": "振替",
+  "transfer_amount": "お支払い金額:",
+  "transfer_progress_title": "振替の進行状況",
+  "transfer_title": "振替",
+  "unbind": "関連を解除する",
+  "undelegate_cpu_tip": "償還したいCPUが抵当しているのCPUを超えている",
+  "undelegate_net_tip": "償還したいNETが抵当しているのNETを超えている",
+  "undelegate_note_1": "- 自分の抵当されたリソースのみが償還できる。",
+  "undelegate_note_2": "- リソースの一部を既に使用している場合は、すべてのリソースを償還することはできません。償還数を減らしてみてください。。",
+  "undelegate_note_3": "- すべての償還されたEOSは、最後の償還から3日後に返されます。",
+  "unverified": "確認されていない",
+  "update_now": "今すぐ更新する",
+  "user_agreement": "利用規約",
+  "user_name": "ユーザー名",
+  "user_name_exist": "ニックネームが使用されました",
+  "verify": "確認",
+  "verify_code": "確認コード",
+  "verify_email_hint": "メールが確認されていません。メールにログインして確認し、確認してください。",
+  "verify_email_resent": "確認メールを再送信",
+  "verify_password": "パスワードを確認する",
+  "verify_phone": "電話番号を確認する",
+  "verify_success": "確認成功！",
+  "verify_wallet_password": "パスワードを確認する",
+  "view_more": "もっと見る",
+  "view_progress": "進行状況を見る",
+  "view_progress_1": "進行状況を見る：",
+  "vote_add_resources": "抵当されたリソースを新たに追加する",
+  "vote_by_proxy": "代理投票",
+  "vote_confirm_title": "投票",
+  "vote_proxy_setting": "エージェントの設定",
+  "vote_proxy_tip": "エージェントを介して投票した後、ノードを選択するか、単独で投票を更新する必要はなく、エージェントは代理人のために投票し、投票はリセットされます。 信頼できるエージェントを選択してください。",
+  "vote_proxy_weigth": "代理票数:",
+  "vote_staked_eos": "抵当されたいるEOS",
+  "vote_total": "総投票数",
+  "voucher": "招待コード",
+  "wait_to_confirm_transaction": "保留中の注文",
+  "waiting_for_registrations": "一括登録の結果をお待ちください",
+  "waiting_time_for_transaction": "すでに{} 秒待っています",
+  "wallet": "ウォレット",
+  "wallet_address": "ウォレットアドレス",
+  "wallet_already_exist": "アカウントは既に存在します",
+  "wallet_change_password": "パスワードを変更する",
+  "wallet_delete": "ウォレットを削除する",
+  "wallet_edit_title": "ウォレットを編集する",
+  "wallet_import": "ウォレットをインポートする",
+  "wallet_manager_title": "ウォレットを管理する",
+  "wallet_name": "ウォレット名",
+  "wallet_name_change_title": "ウォレット名を変更する",
+  "wallet_name_format_1": "新しいウォレット",
+  "wallet_name_format_2": "新しいウォレット-{}",
+  "wallet_password": "ウォレットパスワード",
+  "wallet_password_change_title": "ウォレットパスワードを変更する",
+  "wallet_seed_phrase_show_title": "ウォレットニーモニック",
+  "wallet_seed_phrase_tip_1": "もしあなたのウォレットのニーモニックを取得する場合は、あなたの資産を直接取得します！秘密鍵をコピーして安全な場所に保管してください。。",
+  "website_title": "ウェブサイト",
+  "wechat_public_account": "公式アカウント",
+  "withdraw_account": "コレクションアカウント",
+  "withdraw_amount": "提出額",
+  "withdraw_title": "交換所からお金を引き出すには、以下の情報に従ってください。",
+  "withdraw_warn_tip": "現時点で明示的にサポートされているすべての交換所はOTCBTC、Gate.io、Chaince、Bitfinexです。財産の損害を避けるため、他の交換所からコインを引き出さないでください。",
+  "dapps_alert_title": "アラート",
+  "dapps_alert_body": "サードパーティのDappにジャンプし、サードパーティのDappのユーザーの合意とプライバシーの政策に同意することを確認して、それが直接に単独であなたに責任を負うことを確認します。",
+  "custom_stake_topright": "カスタム抵当",
+  "custom_stake_title": "カスタム抵当",
+  "custom_stake_from": "抵当アカウント",
+  "custom_stake_receiver": "受け取るアカウント",
+  "custom_stake_transfer": "リソースを転移",
+  "custom_stake_tip": "デフォルトでは、リースは他の人のリソースに抵当権を与えるために使用され、いつでも抵当権のあるリソースを引き出すことができます。 \n「移転リソース」を開くと、他のアカウントに抵当権が設定されているリソースは回復できませんので、ご注意ください。",
+  "custom_stake_unstake": "償還",
+  "no_account": "少なくとも1つのEOSアカウントをインポートしてください",
+  "not_match_account": "EOSアカウントが一致しません",
+  "transaction_success": "操作成功",
+  "remember_password_notice": "このモードでは、パスワードを入力する必要はありません。電話を正しく保管してください",
+  "remember_password_tips": "アプリを終了する前にパスワードを入力する必要はありません",
+  "remember_actions_tips": "Dappを閉じる前にプロンプトが表示しない",
+
+  "application_lock_desc": "ホームボタンを押して指紋を確認する",
+  "application_lock_title": "お帰りなさい",
+  "application_lock_click": "クリックしてロックを解除する",
+  "application_lock_psw": "パスコードを使用する",
+  "application_lock": "セキュリティ",
+  "application_lock_login_psw": "アプリケーションパスコード",
+  "application_lock_modify_psw": "パスコードを変更する",
+  "application_lock_fingerprint": "指紋アンロック",
+  "application_lock_face": "フェイスアンロック",
+  "application_lock_background": "アプリがバックグラウンドになるとすぐロックする",
+  "application_lock_psw_setting": "パスワードを設定する",
+  "application_lock_old_psw_input": "古いパスワードを入力してください",
+  "application_lock_psw_input": "パスワードを入力してください",
+  "application_lock_psw_error": "間違ったパスワード",
+  "application_lock_psw_verify": "新しいパスワードをもう一度確認してください",
+  "application_lock_verify_failed": "確認に失敗しました",
+  "application_lock_auth_required": "確認が必要",
+  "generate_keys": "秘密鍵の生成",
+
+  "eos_browser_banner_url": "../../../imgs/eos-browser.png",
+  "eos_browser_history": "履歴ブラウザ",
+  "eos_browser_history_clear": "履歴ブラウザをクリアする",
+  "eos_browser_go": "入る",
+  "eos_browser_placeholder": "アドレスを入力してください",
+  "eos_token_addtolist": "トークンリストに追加",
+  "eos_token_publisher_title": "コントラクトアカウント",
+  "game_center_dau": "24時間のトランザクション数",
+  "game_center_volume": "24時間の成交量",
+  "game_center_recommend": "お勧め",
+  "recent_used": "最近使用された",
+  "sort_by_hot": "ヒートソート",
+  "sort_by_volume": "取引量ソート",
+
+  "eos_get_chainid_error": "ChainIDを取得できません。ノードアドレスを確認してください。",
+  "eos_resources_oneyuan_rent": "一元のリース",
+  "eos_staked_by_self": "自分で抵当にする",
+  "eos_staked_by_others": "他人で抵当にする",
+  "eos_resources_from_others": "他人で抵当にする:",
+  "search_bar_url": "検索またはURLを入力する",
+  "hot_dapps": "人気のあるアプリ",
+  "recent_visited": "最近訪問した",
+  "clean_recent_visited_alert": "履歴ブラウザをクリアするかどうか確認する",
+  "submit_dapp": "DAppを提出する",
+  "share_code_1": "この話をコピーする $ ",
+  "share_code_2": " $ 後にEOSエコポータルMEET.ONEを開く",
+  "share_code_open": "オープンシェア",
+
+  "stake_to_others": "他人のために抵当する",
+  "tokens_search": "検査",
+  "tokens_search_placeholder": "トークン/コントラクト/プロジェクト名",
+  "open_dapps_directly": "Open Website: "
+}

@@ -158,9 +158,9 @@
   "auth_change_title": "变更权限",
   "auth_manage_change": "更换",
   "auth_manage_note": "注意：",
-  "auth_manage_note_1": "- Owner Key : 拥有当前 EOS 账号的所有权限。",
-  "auth_manage_note_2": "- Active Key : 默认情况下，可以完成除更改 Owner Key 以外的所有交易。",
-  "auth_manage_note_3": "- 为了您的资产安全，建议使用 Active Key 导入钱包日常使用。并妥善保管 Owner Key。",
+  "auth_manage_note_1": "- Owner : 拥有当前 EOS 账号的所有权限。",
+  "auth_manage_note_2": "- Active : 默认情况下，可以完成除更改 Owner 以外的所有交易。",
+  "auth_manage_note_3": "- 为了您的资产安全，建议使用 Active 权限导入钱包日常使用。并妥善保管 Owner 权限对应的私钥。",
   "auth_manage_now": "当前",
   "auth_manage_warning": "您当前没有此账号的权限",
   "authorization_account": "授权账号",
@@ -195,7 +195,7 @@
   "check_update": "检查更新",
   "choose_country": "选择国家或地区",
   "choose_eth_wallet": "选择一个 ETH 钱包",
-  "choose_token": "选择一个代币",
+  "choose_token": "Tokens",
   "choose_wallet": "选择一个钱包",
   "close": "关闭",
   "complete": "完成",
@@ -1145,7 +1145,7 @@
   "eos_mapping_verify_title": "验证映射",
   "eos_mapping_wallet": "EOS 映射工具",
   "eos_node_customlabel": "自定义节点",
-  "eos_node_location": "节点位置",
+  "eos_node_location": "节点",
   "eos_node_ping_neterror": "网络错误",
   "eos_node_ping_timeout": "超时",
   "eos_node_selection": "节点选择",
@@ -1326,7 +1326,8 @@
   "language": {
     "chinese": "中文",
     "english": "English",
-    "korean": "한국어"
+    "korean": "한국어",
+    "japanese": "日本語"
   },
   "language_first": "第一个语言 ”{}” ?",
   "language_second": "第二个语言 ”{}” ?",
@@ -1574,7 +1575,7 @@
   "token_info_publish_market": "总市值",
   "token_info_publish_time": "发行时间",
   "token_info_publish_total": "总发行量",
-  "token_list_title": "添加新资产",
+  "token_list_title": "Tokens",
   "token_update_fail": "更新 {} 失败",
   "total_balance": "总资产 CNY",
   "transaction": "交易",
@@ -1704,5 +1705,13 @@
   "hot_dapps": "热门应用",
   "recent_visited": "最近访问",
   "clean_recent_visited_alert": "确认是否清空历史记录",
-  "submit_dapp": "提交 DApp"
+  "submit_dapp": "提交 DApp",
+  "share_code_1": "复制这段话 $ ",
+  "share_code_2": " $ 后打开 EOS 生态入口 MEET.ONE",
+  "share_code_open": "打开口令",
+
+  "stake_to_others": "为他人抵押",
+  "tokens_search": "搜索",
+  "tokens_search_placeholder": "Token / 合约 / 项目名称",
+  "open_dapps_directly": "打开网页: "
 }
