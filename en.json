@@ -158,9 +158,9 @@
   "auth_change_title": "Change Authority",
   "auth_manage_change": "Change",
   "auth_manage_note": "Notice:",
-  "auth_manage_note_1": "- Owner Key : Have all permissions for the current EOS account.",
-  "auth_manage_note_2": "- Active Key : By default, all transactions can be done except to change the Owner Key.",
-  "auth_manage_note_3": "- For the security of your assets, it is recommended to use the Active Key to import the wallet. And keep the Owner Key in a safe place.",
+  "auth_manage_note_1": "- Owner : Have all permissions for the current EOS account.",
+  "auth_manage_note_2": "- Active : By default, all transactions can be done except to change the Owner.",
+  "auth_manage_note_3": "- For the security of your assets, it is recommended to use the Active Permissions to import the wallet. And keep the Owner Permissions in a safe place.",
   "auth_manage_now": "Now",
   "auth_manage_warning": "You do not currently have permission for this account.",
   "authorization_account": "Access Account",
@@ -195,7 +195,7 @@
   "check_update": "Check for updates",
   "choose_country": "Region",
   "choose_eth_wallet": "Choose an ETH wallet",
-  "choose_token": "Choose a token",
+  "choose_token": "Tokens",
   "choose_wallet": "Choose a wallet",
   "close": "Close",
   "complete": "Done",
@@ -1145,7 +1145,7 @@
   "eos_mapping_verify_title": "Verification mapping",
   "eos_mapping_wallet": "EOS mapping tool",
   "eos_node_customlabel": "Custom Node",
-  "eos_node_location": "Location",
+  "eos_node_location": "Node",
   "eos_node_ping_neterror": "Network error",
   "eos_node_ping_timeout": "Timeout",
   "eos_node_selection": "Node Selection",
@@ -1326,7 +1326,8 @@
   "language": {
     "chinese": "中文",
     "english": "English",
-    "korean": "한국어"
+    "korean": "한국어",
+    "japanese": "日本語"
   },
   "language_first": "The first language \"{}\" ?",
   "language_second": "The second language \"{}\" ?",
@@ -1351,7 +1352,7 @@
   },
   "mainpage_btn1_subtitle": "Import wallet by private Key",
   "mainpage_btn1_title": "Import wallet",
-  "mainpage_btn2_subtitle": "I hava EOS in exchange, register account by smart contract",
+  "mainpage_btn2_subtitle": "I have EOS in exchange, register account by smart contract",
   "mainpage_btn2_title": "Self-Registration",
   "mainpage_btn3_subtitle": "I want to generate keys and ask friend to create account",
   "mainpage_btn3_title": "Register by friend",
@@ -1574,7 +1575,7 @@
   "token_info_publish_market": "Market Capitalization",
   "token_info_publish_time": "Release Time",
   "token_info_publish_total": "Total Circulation",
-  "token_list_title": "Add new assets",
+  "token_list_title": "Tokens",
   "token_update_fail": "Update {} failed",
   "total_balance": "Total assets CNY",
   "transaction": "Transaction",
@@ -1705,6 +1706,13 @@
   "hot_dapps": "Hot Dapps",
   "recent_visited": "Recent Visited",
   "clean_recent_visited_alert": "Sure to clear the history records",
-  "submit_dapp": "Submit DApp"
+  "submit_dapp": "Submit DApp",
+  "share_code_1": "Copy this paragraph $ ",
+  "share_code_2": " $ then open the portal to EOS ecology MEET.ONE",
+  "share_code_open": "Open Share",
 
+  "stake_to_others": "Staked For Others",
+  "tokens_search": "Search",
+  "tokens_search_placeholder": "Token / Contract / Description",
+  "open_dapps_directly": "Open Website: "
 }
