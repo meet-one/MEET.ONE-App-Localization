@@ -1,2 +1,2 @@
-# meet-i18n
-the i18n config files for MEET.ONE application
+# MEET.ONE-App-Localization
+Json files for MEET.ONE application
