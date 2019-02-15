@@ -1,2 +1,2 @@
 # MEET.ONE-App-Localization
-Json files for MEET.ONE application
+Language files for MEET.ONE application
